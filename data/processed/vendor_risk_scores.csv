@@ -1,0 +1,201 @@
+vendor_id,vendor_name,industry,tier,criticality_score,country,Compliance,Data Breach,Ransomware,Vulnerability,Data Breach_weighted,Ransomware_weighted,Vulnerability_weighted,Compliance_weighted,composite_risk_score,composite_risk_score_norm,risk_band
+V0001,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe,0.0,3.0,16.0,2.0,1.0499999999999998,4.8,0.4,0.0,6.25,46.0,Medium
+V0002,Floyd PLC,Manufacturing,Tier 2/3,59,French Southern Territories,0.0,1.0,0.0,4.0,0.35,0.0,0.8,0.0,1.15,8.5,Low
+V0003,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia,10.0,13.0,0.0,15.0,4.55,0.0,3.0,1.5,9.05,66.5,High
+V0004,"Mccullough, Patel and Pennington",Cloud,Tier 2/3,45,Vietnam,0.0,6.0,0.0,1.0,2.0999999999999996,0.0,0.2,0.0,2.3,16.9,Low
+V0005,Weiss Inc,Finance,Tier 2/3,40,Kazakhstan,0.0,17.0,0.0,1.0,5.949999999999999,0.0,0.2,0.0,6.1499999999999995,45.2,Medium
+V0006,"Wright, Mendez and Castro",Cloud,Tier 1,85,Togo,0.0,0.0,12.0,3.0,0.0,3.5999999999999996,0.6000000000000001,0.0,4.199999999999999,30.9,Medium
+V0007,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles,6.0,21.0,3.0,1.0,7.35,0.8999999999999999,0.2,0.8999999999999999,9.35,68.8,High
+V0008,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China,19.0,2.0,6.0,12.0,0.7,1.7999999999999998,2.4000000000000004,2.85,7.75,57.0,High
+V0009,"Hart, Green and Garza",Defense,Tier 2/3,46,Tonga,0.0,0.0,0.0,10.0,0.0,0.0,2.0,0.0,2.0,14.7,Low
+V0010,Gallagher LLC,Defense,Tier 2/3,42,Thailand,13.0,13.0,1.0,4.0,4.55,0.3,0.8,1.95,7.6,55.9,High
+V0011,Alvarez-Evans,Logistics,Tier 2/3,47,Bolivia,0.0,3.0,0.0,1.0,1.0499999999999998,0.0,0.2,0.0,1.2499999999999998,9.2,Low
+V0012,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana,10.0,1.0,0.0,2.0,0.35,0.0,0.4,1.5,2.25,16.5,Low
+V0013,Peck-Myers,Logistics,Tier 2/3,47,Chad,17.0,7.0,0.0,1.0,2.4499999999999997,0.0,0.2,2.55,5.199999999999999,38.2,Medium
+V0014,Reed Inc,Finance,Tier 2/3,59,Malaysia,1.0,0.0,1.0,6.0,0.0,0.3,1.2000000000000002,0.15,1.6500000000000001,12.1,Low
+V0015,"Robinson, Gonzalez and Jarvis",Manufacturing,Tier 2/3,46,Panama,6.0,9.0,6.0,3.0,3.15,1.7999999999999998,0.6000000000000001,0.8999999999999999,6.449999999999999,47.4,Medium
+V0016,Adams PLC,Logistics,Tier 2/3,39,Georgia,0.0,0.0,3.0,4.0,0.0,0.8999999999999999,0.8,0.0,1.7,12.5,Low
+V0017,George-Grimes,Logistics,Tier 1,93,Jamaica,16.0,4.0,10.0,8.0,1.4,3.0,1.6,2.4,8.4,61.8,High
+V0018,Duran-Trevino,Finance,Tier 2/3,62,American Samoa,0.0,0.0,6.0,0.0,0.0,1.7999999999999998,0.0,0.0,1.7999999999999998,13.2,Low
+V0019,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles,0.0,3.0,13.0,10.0,1.0499999999999998,3.9,2.0,0.0,6.949999999999999,51.1,High
+V0020,Hall Group,Manufacturing,Tier 1,87,Italy,1.0,1.0,1.0,1.0,0.35,0.3,0.2,0.15,0.9999999999999999,7.4,Low
+V0021,Jenkins-Sanders,Cloud,Tier 2/3,76,Belarus,1.0,0.0,1.0,0.0,0.0,0.3,0.0,0.15,0.44999999999999996,3.3,Low
+V0022,Perez Inc,Manufacturing,Tier 2/3,59,Andorra,0.0,0.0,3.0,0.0,0.0,0.8999999999999999,0.0,0.0,0.8999999999999999,6.6,Low
+V0023,Oconnor Group,Healthcare,Tier 1,91,Barbados,9.0,6.0,0.0,0.0,2.0999999999999996,0.0,0.0,1.3499999999999999,3.4499999999999993,25.4,Medium
+V0024,"Leonard, Barber and Trujillo",Manufacturing,Tier 2/3,37,Spain,7.0,5.0,0.0,0.0,1.75,0.0,0.0,1.05,2.8,20.6,Low
+V0025,Davis-Ochoa,Logistics,Tier 1,80,Georgia,3.0,1.0,7.0,6.0,0.35,2.1,1.2000000000000002,0.44999999999999996,4.1000000000000005,30.1,Medium
+V0026,Hansen-Bautista,Cloud,Tier 2/3,74,El Salvador,3.0,1.0,0.0,0.0,0.35,0.0,0.0,0.44999999999999996,0.7999999999999999,5.9,Low
+V0027,Roth-Faulkner,Cloud,Tier 2/3,53,Timor-Leste,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,1.1,Low
+V0028,Petersen Ltd,Cloud,Tier 2/3,68,Libyan Arab Jamahiriya,6.0,0.0,3.0,0.0,0.0,0.8999999999999999,0.0,0.8999999999999999,1.7999999999999998,13.2,Low
+V0029,Young-Miller,Healthcare,Tier 2/3,75,Dominica,0.0,0.0,6.0,0.0,0.0,1.7999999999999998,0.0,0.0,1.7999999999999998,13.2,Low
+V0030,"Franklin, Smith and Delacruz",Manufacturing,Tier 2/3,32,Lao People's Democratic Republic,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.2,1.5,Low
+V0031,Nguyen Inc,Healthcare,Tier 2/3,73,Svalbard & Jan Mayen Islands,0.0,10.0,1.0,1.0,3.5,0.3,0.2,0.0,4.0,29.4,Medium
+V0032,"Gates, Smith and Smith",Cloud,Tier 2/3,46,Sierra Leone,1.0,6.0,0.0,3.0,2.0999999999999996,0.0,0.6000000000000001,0.15,2.8499999999999996,21.0,Low
+V0033,Miranda-Moore,Manufacturing,Tier 2/3,67,Botswana,0.0,1.0,3.0,0.0,0.35,0.8999999999999999,0.0,0.0,1.25,9.2,Low
+V0034,Montgomery-Cooper,Cloud,Tier 2/3,73,Iraq,0.0,0.0,9.0,9.0,0.0,2.6999999999999997,1.8,0.0,4.5,33.1,Medium
+V0035,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey,3.0,9.0,17.0,3.0,3.15,5.1,0.6000000000000001,0.44999999999999996,9.299999999999999,68.4,High
+V0036,Gilmore PLC,Manufacturing,Tier 2/3,61,Somalia,2.0,4.0,1.0,0.0,1.4,0.3,0.0,0.3,2.0,14.7,Low
+V0037,"Little, Clark and Yoder",Healthcare,Tier 2/3,70,Aruba,1.0,7.0,6.0,0.0,2.4499999999999997,1.7999999999999998,0.0,0.15,4.4,32.4,Medium
+V0038,"Phillips, Green and Shelton",Finance,Tier 2/3,63,Dominica,1.0,0.0,6.0,7.0,0.0,1.7999999999999998,1.4000000000000001,0.15,3.35,24.6,Low
+V0039,Weaver Ltd,Finance,Tier 2/3,51,Greece,6.0,3.0,1.0,1.0,1.0499999999999998,0.3,0.2,0.8999999999999999,2.4499999999999997,18.0,Low
+V0040,Gallagher LLC,Healthcare,Tier 2/3,35,Cayman Islands,0.0,3.0,1.0,2.0,1.0499999999999998,0.3,0.4,0.0,1.75,12.9,Low
+V0041,Mitchell Inc,Cloud,Tier 2/3,56,France,0.0,4.0,1.0,0.0,1.4,0.3,0.0,0.0,1.7,12.5,Low
+V0042,Roberts-Fowler,Cloud,Tier 2/3,73,Argentina,0.0,10.0,10.0,0.0,3.5,3.0,0.0,0.0,6.5,47.8,Medium
+V0043,Hamilton and Sons,Healthcare,Tier 1,89,Western Sahara,0.0,0.0,2.0,12.0,0.0,0.6,2.4000000000000004,0.0,3.0000000000000004,22.1,Low
+V0044,"Medina, Curtis and Garza",Cloud,Tier 2/3,45,Saint Barthelemy,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8999999999999999,0.8999999999999999,6.6,Low
+V0045,Sims PLC,Finance,Tier 2/3,51,Kiribati,3.0,10.0,0.0,0.0,3.5,0.0,0.0,0.44999999999999996,3.95,29.0,Medium
+V0046,"Porter, Morris and Craig",Finance,Tier 2/3,56,Czech Republic,0.0,9.0,0.0,0.0,3.15,0.0,0.0,0.0,3.15,23.2,Low
+V0047,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago),8.0,7.0,0.0,1.0,2.4499999999999997,0.0,0.2,1.2,3.8499999999999996,28.3,Medium
+V0048,Smith Ltd,Finance,Tier 2/3,38,Vietnam,0.0,4.0,0.0,1.0,1.4,0.0,0.2,0.0,1.5999999999999999,11.8,Low
+V0049,"Dixon, Hines and Grant",Logistics,Tier 1,84,Tajikistan,6.0,1.0,0.0,6.0,0.35,0.0,1.2000000000000002,0.8999999999999999,2.45,18.0,Low
+V0050,Stephenson LLC,Manufacturing,Tier 2/3,64,Tuvalu,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.44999999999999996,0.44999999999999996,3.3,Low
+V0051,"Cannon, Jacobson and Glenn",Cloud,Tier 2/3,51,Kyrgyz Republic,3.0,0.0,1.0,1.0,0.0,0.3,0.2,0.44999999999999996,0.95,7.0,Low
+V0052,Lee and Sons,Finance,Tier 2/3,35,Canada,3.0,2.0,0.0,10.0,0.7,0.0,2.0,0.44999999999999996,3.1500000000000004,23.2,Low
+V0053,Underwood-Baldwin,Cloud,Tier 2/3,72,Uruguay,0.0,10.0,14.0,0.0,3.5,4.2,0.0,0.0,7.7,56.6,High
+V0054,Martinez PLC,Healthcare,Tier 2/3,41,Portugal,1.0,5.0,22.0,6.0,1.75,6.6,1.2000000000000002,0.15,9.700000000000001,71.3,High
+V0055,"Robinson, Richardson and Brown",Manufacturing,Tier 2/3,70,Macao,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.3,2.2,Low
+V0056,Singh-Mathis,Logistics,Tier 2/3,42,Azerbaijan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low
+V0057,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire,3.0,4.0,0.0,16.0,1.4,0.0,3.2,0.44999999999999996,5.05,37.1,Medium
+V0058,Williams Inc,Manufacturing,Tier 2/3,70,Guinea-Bissau,0.0,1.0,0.0,0.0,0.35,0.0,0.0,0.0,0.35,2.6,Low
+V0059,Paul Ltd,Healthcare,Tier 1,96,Monaco,2.0,9.0,4.0,0.0,3.15,1.2,0.0,0.3,4.6499999999999995,34.2,Medium
+V0060,"Nunez, Chambers and Montes",Cloud,Tier 2/3,75,Indonesia,0.0,0.0,0.0,12.0,0.0,0.0,2.4000000000000004,0.0,2.4000000000000004,17.6,Low
+V0061,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay,0.0,4.0,3.0,6.0,1.4,0.8999999999999999,1.2000000000000002,0.0,3.5,25.7,Medium
+V0062,Schroeder-Mcmahon,Finance,Tier 2/3,72,Isle of Man,6.0,2.0,6.0,3.0,0.7,1.7999999999999998,0.6000000000000001,0.8999999999999999,4.0,29.4,Medium
+V0063,Owens-Garcia,Finance,Tier 2/3,37,Guyana,0.0,11.0,0.0,0.0,3.8499999999999996,0.0,0.0,0.0,3.8499999999999996,28.3,Medium
+V0064,"Smith, Palmer and English",Defense,Tier 2/3,74,Netherlands Antilles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low
+V0065,"Zuniga, Harris and Gomez",Manufacturing,Tier 2/3,46,Fiji,0.0,9.0,0.0,6.0,3.15,0.0,1.2000000000000002,0.0,4.35,32.0,Medium
+V0066,"Williams, Estrada and David",Logistics,Tier 1,100,Mozambique,6.0,0.0,0.0,9.0,0.0,0.0,1.8,0.8999999999999999,2.7,19.9,Low
+V0067,Parker-Mckay,Manufacturing,Tier 2/3,63,Yemen,1.0,3.0,1.0,0.0,1.0499999999999998,0.3,0.0,0.15,1.4999999999999998,11.0,Low
+V0068,"Cole, Hernandez and George",Healthcare,Tier 2/3,41,Yemen,10.0,3.0,3.0,11.0,1.0499999999999998,0.8999999999999999,2.2,1.5,5.65,41.5,Medium
+V0069,Franco-Johnson,Manufacturing,Tier 2/3,34,Gabon,0.0,4.0,0.0,14.0,1.4,0.0,2.8000000000000003,0.0,4.2,30.9,Medium
+V0070,Wilson-Parks,Defense,Tier 1,85,Liechtenstein,0.0,18.0,19.0,2.0,6.3,5.7,0.4,0.0,12.4,91.2,Critical
+V0071,"Davis, Marsh and Lee",Finance,Tier 2/3,79,Ethiopia,6.0,6.0,1.0,9.0,2.0999999999999996,0.3,1.8,0.8999999999999999,5.1,37.5,Medium
+V0072,"Evans, Schroeder and Marshall",Logistics,Tier 2/3,74,Morocco,4.0,6.0,0.0,11.0,2.0999999999999996,0.0,2.2,0.6,4.8999999999999995,36.0,Medium
+V0073,Rodriguez and Sons,Logistics,Tier 2/3,60,Falkland Islands (Malvinas),0.0,6.0,5.0,0.0,2.0999999999999996,1.5,0.0,0.0,3.5999999999999996,26.5,Medium
+V0074,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa,1.0,10.0,7.0,6.0,3.5,2.1,1.2000000000000002,0.15,6.95,51.1,High
+V0075,Gonzales-Owens,Finance,Tier 2/3,49,Chile,0.0,11.0,4.0,16.0,3.8499999999999996,1.2,3.2,0.0,8.25,60.7,High
+V0076,Cruz LLC,Logistics,Tier 2/3,69,Guatemala,3.0,10.0,9.0,6.0,3.5,2.6999999999999997,1.2000000000000002,0.44999999999999996,7.85,57.7,High
+V0077,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands,1.0,0.0,7.0,16.0,0.0,2.1,3.2,0.15,5.450000000000001,40.1,Medium
+V0078,Lowery-Cummings,Logistics,Tier 2/3,47,Finland,3.0,1.0,0.0,11.0,0.35,0.0,2.2,0.44999999999999996,3.0,22.1,Low
+V0079,Nelson-Hood,Finance,Tier 2/3,75,Oman,0.0,0.0,2.0,27.0,0.0,0.6,5.4,0.0,6.0,44.1,Medium
+V0080,"Taylor, Miller and Whitehead",Logistics,Tier 2/3,38,Sweden,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low
+V0081,"Garcia, Thomas and Moore",Logistics,Tier 2/3,76,Bahamas,0.0,1.0,0.0,4.0,0.35,0.0,0.8,0.0,1.15,8.5,Low
+V0082,Lopez-Norris,Manufacturing,Tier 2/3,48,Seychelles,0.0,1.0,6.0,3.0,0.35,1.7999999999999998,0.6000000000000001,0.0,2.75,20.2,Low
+V0083,Kim-Roberts,Finance,Tier 1,95,Myanmar,1.0,6.0,0.0,10.0,2.0999999999999996,0.0,2.0,0.15,4.25,31.2,Medium
+V0084,Jordan Ltd,Cloud,Tier 2/3,73,Paraguay,0.0,11.0,0.0,13.0,3.8499999999999996,0.0,2.6,0.0,6.449999999999999,47.4,Medium
+V0085,"Rodriguez, Gomez and Anderson",Logistics,Tier 2/3,72,Chad,0.0,9.0,4.0,1.0,3.15,1.2,0.2,0.0,4.55,33.5,Medium
+V0086,Mitchell-Gonzalez,Manufacturing,Tier 2/3,34,Kenya,0.0,9.0,0.0,0.0,3.15,0.0,0.0,0.0,3.15,23.2,Low
+V0087,Hutchinson-Pineda,Defense,Tier 2/3,80,Isle of Man,6.0,0.0,0.0,6.0,0.0,0.0,1.2000000000000002,0.8999999999999999,2.1,15.4,Low
+V0088,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus,1.0,4.0,1.0,15.0,1.4,0.3,3.0,0.15,4.8500000000000005,35.7,Medium
+V0089,"Parker, Mora and Woods",Healthcare,Tier 2/3,66,British Virgin Islands,0.0,0.0,3.0,5.0,0.0,0.8999999999999999,1.0,0.0,1.9,14.0,Low
+V0090,Manning-Carpenter,Logistics,Tier 2/3,52,Georgia,0.0,3.0,0.0,3.0,1.0499999999999998,0.0,0.6000000000000001,0.0,1.65,12.1,Low
+V0091,"Roberts, Roberts and Morales",Healthcare,Tier 2/3,31,Western Sahara,0.0,0.0,1.0,1.0,0.0,0.3,0.2,0.0,0.5,3.7,Low
+V0092,Elliott-Wells,Healthcare,Tier 2/3,60,South Africa,0.0,1.0,0.0,1.0,0.35,0.0,0.2,0.0,0.55,4.0,Low
+V0093,Vasquez-Hernandez,Logistics,Tier 2/3,58,Liberia,10.0,1.0,12.0,6.0,0.35,3.5999999999999996,1.2000000000000002,1.5,6.65,48.9,Medium
+V0094,"Velez, Jackson and Martin",Logistics,Tier 1,99,Jamaica,0.0,9.0,10.0,3.0,3.15,3.0,0.6000000000000001,0.0,6.75,49.6,Medium
+V0095,Pollard-Taylor,Defense,Tier 2/3,44,Bolivia,1.0,0.0,0.0,3.0,0.0,0.0,0.6000000000000001,0.15,0.7500000000000001,5.5,Low
+V0096,Lindsey LLC,Cloud,Tier 2/3,49,Kenya,0.0,9.0,2.0,0.0,3.15,0.6,0.0,0.0,3.75,27.6,Medium
+V0097,Williams-Gonzales,Cloud,Tier 2/3,64,Luxembourg,0.0,0.0,1.0,4.0,0.0,0.3,0.8,0.0,1.1,8.1,Low
+V0098,Owens-Gonzales,Manufacturing,Tier 2/3,68,Marshall Islands,1.0,0.0,1.0,1.0,0.0,0.3,0.2,0.15,0.65,4.8,Low
+V0099,Phillips Ltd,Logistics,Tier 1,93,Cambodia,6.0,1.0,1.0,1.0,0.35,0.3,0.2,0.8999999999999999,1.7499999999999998,12.9,Low
+V0100,Bishop PLC,Cloud,Tier 2/3,37,Fiji,0.0,0.0,12.0,3.0,0.0,3.5999999999999996,0.6000000000000001,0.0,4.199999999999999,30.9,Medium
+V0101,"Rowland, Johnson and Owens",Defense,Tier 2/3,73,Germany,0.0,6.0,4.0,1.0,2.0999999999999996,1.2,0.2,0.0,3.5,25.7,Medium
+V0102,Simmons-Lucas,Defense,Tier 2/3,30,Bhutan,0.0,4.0,13.0,1.0,1.4,3.9,0.2,0.0,5.5,40.4,Medium
+V0103,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait,3.0,11.0,1.0,21.0,3.8499999999999996,0.3,4.2,0.44999999999999996,8.799999999999999,64.7,High
+V0104,Smith-Johnson,Healthcare,Tier 2/3,51,Sri Lanka,6.0,10.0,0.0,0.0,3.5,0.0,0.0,0.8999999999999999,4.4,32.4,Medium
+V0105,Lane-Anderson,Defense,Tier 2/3,59,United Arab Emirates,0.0,0.0,0.0,2.0,0.0,0.0,0.4,0.0,0.4,2.9,Low
+V0106,"Smith, Rodriguez and Fuller",Cloud,Tier 2/3,55,Bosnia and Herzegovina,0.0,6.0,6.0,1.0,2.0999999999999996,1.7999999999999998,0.2,0.0,4.1,30.1,Medium
+V0107,Gutierrez Ltd,Cloud,Tier 2/3,50,Japan,1.0,6.0,0.0,16.0,2.0999999999999996,0.0,3.2,0.15,5.45,40.1,Medium
+V0108,Barker-Vaughn,Manufacturing,Tier 2/3,47,Indonesia,0.0,0.0,11.0,0.0,0.0,3.3,0.0,0.0,3.3,24.3,Low
+V0109,Harvey-Dyer,Cloud,Tier 2/3,37,Tokelau,3.0,6.0,0.0,7.0,2.0999999999999996,0.0,1.4000000000000001,0.44999999999999996,3.95,29.0,Medium
+V0110,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia,0.0,10.0,7.0,7.0,3.5,2.1,1.4000000000000001,0.0,7.0,51.5,High
+V0111,West and Sons,Finance,Tier 2/3,66,Cambodia,0.0,1.0,6.0,4.0,0.35,1.7999999999999998,0.8,0.0,2.95,21.7,Low
+V0112,Alvarado-Mann,Finance,Tier 2/3,77,Albania,0.0,2.0,0.0,0.0,0.7,0.0,0.0,0.0,0.7,5.1,Low
+V0113,Green-Thomas,Manufacturing,Tier 1,90,San Marino,4.0,9.0,3.0,22.0,3.15,0.8999999999999999,4.4,0.6,9.049999999999999,66.5,High
+V0114,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan,1.0,0.0,6.0,17.0,0.0,1.7999999999999998,3.4000000000000004,0.15,5.3500000000000005,39.3,Medium
+V0115,"Smith, Henderson and Santos",Healthcare,Tier 2/3,31,Turks and Caicos Islands,3.0,0.0,10.0,0.0,0.0,3.0,0.0,0.44999999999999996,3.45,25.4,Medium
+V0116,Martinez LLC,Manufacturing,Tier 1,83,Colombia,10.0,6.0,11.0,0.0,2.0999999999999996,3.3,0.0,1.5,6.8999999999999995,50.7,High
+V0117,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam,0.0,21.0,2.0,3.0,7.35,0.6,0.6000000000000001,0.0,8.549999999999999,62.9,High
+V0118,"Carroll, Thomas and Todd",Defense,Tier 2/3,76,Holy See (Vatican City State),3.0,10.0,4.0,6.0,3.5,1.2,1.2000000000000002,0.44999999999999996,6.3500000000000005,46.7,Medium
+V0119,Lewis-Richards,Manufacturing,Tier 2/3,64,Azerbaijan,0.0,2.0,3.0,3.0,0.7,0.8999999999999999,0.6000000000000001,0.0,2.2,16.2,Low
+V0120,"Guerrero, Diaz and Hinton",Finance,Tier 1,86,Korea,3.0,12.0,0.0,0.0,4.199999999999999,0.0,0.0,0.44999999999999996,4.6499999999999995,34.2,Medium
+V0121,"Vargas, Wilson and Bowman",Cloud,Tier 2/3,40,Guam,3.0,3.0,20.0,6.0,1.0499999999999998,6.0,1.2000000000000002,0.44999999999999996,8.7,64.0,High
+V0122,Rodriguez PLC,Defense,Tier 2/3,76,Afghanistan,0.0,7.0,0.0,2.0,2.4499999999999997,0.0,0.4,0.0,2.8499999999999996,21.0,Low
+V0123,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein,12.0,9.0,2.0,1.0,3.15,0.6,0.2,1.7999999999999998,5.75,42.3,Medium
+V0124,Jackson Ltd,Healthcare,Tier 1,85,Indonesia,1.0,6.0,14.0,1.0,2.0999999999999996,4.2,0.2,0.15,6.65,48.9,Medium
+V0125,Ramirez-Parrish,Cloud,Tier 2/3,67,Brazil,0.0,4.0,0.0,0.0,1.4,0.0,0.0,0.0,1.4,10.3,Low
+V0126,Morgan-Terrell,Defense,Tier 1,95,Tunisia,1.0,0.0,19.0,7.0,0.0,5.7,1.4000000000000001,0.15,7.250000000000001,53.3,High
+V0127,Compton-Smith,Defense,Tier 2/3,57,Eritrea,7.0,1.0,3.0,3.0,0.35,0.8999999999999999,0.6000000000000001,1.05,2.9000000000000004,21.3,Low
+V0128,Fuller PLC,Finance,Tier 1,84,Portugal,6.0,4.0,10.0,1.0,1.4,3.0,0.2,0.8999999999999999,5.5,40.4,Medium
+V0129,Henderson and Sons,Logistics,Tier 2/3,74,Marshall Islands,3.0,4.0,1.0,0.0,1.4,0.3,0.0,0.44999999999999996,2.15,15.8,Low
+V0130,Brown-Peterson,Defense,Tier 1,82,Colombia,0.0,14.0,5.0,4.0,4.8999999999999995,1.5,0.8,0.0,7.199999999999999,52.9,High
+V0131,"Perez, Beard and Larson",Defense,Tier 2/3,59,Slovakia (Slovak Republic),3.0,1.0,10.0,2.0,0.35,3.0,0.4,0.44999999999999996,4.2,30.9,Medium
+V0132,Lester-Miller,Manufacturing,Tier 2/3,55,Poland,6.0,0.0,3.0,0.0,0.0,0.8999999999999999,0.0,0.8999999999999999,1.7999999999999998,13.2,Low
+V0133,Brown-Lewis,Cloud,Tier 2/3,37,Canada,0.0,13.0,1.0,6.0,4.55,0.3,1.2000000000000002,0.0,6.05,44.5,Medium
+V0134,Hill-Lindsey,Manufacturing,Tier 2/3,46,Timor-Leste,13.0,6.0,11.0,0.0,2.0999999999999996,3.3,0.0,1.95,7.35,54.0,High
+V0135,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa,0.0,12.0,1.0,3.0,4.199999999999999,0.3,0.6000000000000001,0.0,5.1,37.5,Medium
+V0136,Payne-Lambert,Cloud,Tier 2/3,80,Japan,0.0,3.0,3.0,7.0,1.0499999999999998,0.8999999999999999,1.4000000000000001,0.0,3.3499999999999996,24.6,Low
+V0137,"Daniel, Ford and Green",Manufacturing,Tier 2/3,31,Congo,0.0,0.0,3.0,6.0,0.0,0.8999999999999999,1.2000000000000002,0.0,2.1,15.4,Low
+V0138,"Peters, Martinez and Clark",Logistics,Tier 2/3,68,Cape Verde,0.0,10.0,10.0,0.0,3.5,3.0,0.0,0.0,6.5,47.8,Medium
+V0139,Wilson-Conley,Finance,Tier 2/3,51,Turks and Caicos Islands,0.0,7.0,0.0,1.0,2.4499999999999997,0.0,0.2,0.0,2.65,19.5,Low
+V0140,Landry-Pace,Cloud,Tier 1,88,Faroe Islands,7.0,0.0,6.0,10.0,0.0,1.7999999999999998,2.0,1.05,4.85,35.7,Medium
+V0141,Harris Group,Healthcare,Tier 2/3,34,Thailand,0.0,15.0,10.0,9.0,5.25,3.0,1.8,0.0,10.05,73.9,High
+V0142,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras,1.0,4.0,0.0,9.0,1.4,0.0,1.8,0.15,3.35,24.6,Low
+V0143,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands,14.0,10.0,22.0,7.0,3.5,6.6,1.4000000000000001,2.1,13.6,100.0,Critical
+V0144,Peterson and Sons,Manufacturing,Tier 2/3,49,Montserrat,9.0,13.0,1.0,0.0,4.55,0.3,0.0,1.3499999999999999,6.199999999999999,45.6,Medium
+V0145,"Mason, Duran and Torres",Manufacturing,Tier 1,91,Puerto Rico,0.0,0.0,10.0,13.0,0.0,3.0,2.6,0.0,5.6,41.2,Medium
+V0146,"Kim, Schmidt and Hopkins",Manufacturing,Tier 2/3,36,Gabon,0.0,6.0,1.0,8.0,2.0999999999999996,0.3,1.6,0.0,3.9999999999999996,29.4,Medium
+V0147,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico,12.0,0.0,0.0,18.0,0.0,0.0,3.6,1.7999999999999998,5.4,39.7,Medium
+V0148,Johnson-Fox,Healthcare,Tier 2/3,79,Croatia,0.0,1.0,1.0,10.0,0.35,0.3,2.0,0.0,2.65,19.5,Low
+V0149,Santiago Group,Finance,Tier 2/3,73,United States of America,6.0,10.0,1.0,3.0,3.5,0.3,0.6000000000000001,0.8999999999999999,5.300000000000001,39.0,Medium
+V0150,"Lopez, Carroll and Huang",Manufacturing,Tier 1,96,Saint Pierre and Miquelon,7.0,3.0,3.0,0.0,1.0499999999999998,0.8999999999999999,0.0,1.05,3.0,22.1,Low
+V0151,Phillips and Sons,Logistics,Tier 2/3,57,Trinidad and Tobago,0.0,3.0,0.0,13.0,1.0499999999999998,0.0,2.6,0.0,3.65,26.8,Medium
+V0152,Wilson Inc,Logistics,Tier 2/3,45,Jersey,1.0,0.0,1.0,0.0,0.0,0.3,0.0,0.15,0.44999999999999996,3.3,Low
+V0153,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic,10.0,5.0,11.0,18.0,1.75,3.3,3.6,1.5,10.15,74.6,High
+V0154,Bates Group,Finance,Tier 2/3,65,Angola,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.2,1.5,Low
+V0155,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria,11.0,3.0,4.0,3.0,1.0499999999999998,1.2,0.6000000000000001,1.65,4.5,33.1,Medium
+V0156,Larsen-Johnson,Logistics,Tier 2/3,43,Cameroon,0.0,0.0,1.0,7.0,0.0,0.3,1.4000000000000001,0.0,1.7000000000000002,12.5,Low
+V0157,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa,0.0,6.0,19.0,4.0,2.0999999999999996,5.7,0.8,0.0,8.6,63.2,High
+V0158,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America,16.0,0.0,3.0,1.0,0.0,0.8999999999999999,0.2,2.4,3.5,25.7,Medium
+V0159,"Collins, Rodriguez and Cole",Finance,Tier 2/3,36,Syrian Arab Republic,0.0,1.0,1.0,0.0,0.35,0.3,0.0,0.0,0.6499999999999999,4.8,Low
+V0160,Brock LLC,Healthcare,Tier 2/3,47,Guatemala,0.0,3.0,13.0,0.0,1.0499999999999998,3.9,0.0,0.0,4.949999999999999,36.4,Medium
+V0161,Miller-Romero,Logistics,Tier 2/3,69,Taiwan,0.0,9.0,1.0,0.0,3.15,0.3,0.0,0.0,3.4499999999999997,25.4,Medium
+V0162,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar,10.0,7.0,16.0,1.0,2.4499999999999997,4.8,0.2,1.5,8.95,65.8,High
+V0163,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles,0.0,15.0,3.0,8.0,5.25,0.8999999999999999,1.6,0.0,7.75,57.0,High
+V0164,"Juarez, Kaiser and Gardner",Finance,Tier 2/3,80,Bangladesh,1.0,1.0,10.0,0.0,0.35,3.0,0.0,0.15,3.5,25.7,Medium
+V0165,Wright PLC,Manufacturing,Tier 2/3,45,Malta,6.0,0.0,6.0,14.0,0.0,1.7999999999999998,2.8000000000000003,0.8999999999999999,5.5,40.4,Medium
+V0166,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan,1.0,15.0,6.0,1.0,5.25,1.7999999999999998,0.2,0.15,7.4,54.4,High
+V0167,Cole PLC,Logistics,Tier 2/3,71,Iceland,0.0,6.0,4.0,0.0,2.0999999999999996,1.2,0.0,0.0,3.3,24.3,Low
+V0168,Brown LLC,Healthcare,Tier 1,89,Bolivia,0.0,4.0,1.0,6.0,1.4,0.3,1.2000000000000002,0.0,2.9000000000000004,21.3,Low
+V0169,Taylor Group,Finance,Tier 1,95,Russian Federation,3.0,0.0,1.0,12.0,0.0,0.3,2.4000000000000004,0.44999999999999996,3.1500000000000004,23.2,Low
+V0170,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico,20.0,0.0,1.0,9.0,0.0,0.3,1.8,3.0,5.1,37.5,Medium
+V0171,Payne-Morris,Healthcare,Tier 2/3,33,Saint Martin,6.0,4.0,10.0,1.0,1.4,3.0,0.2,0.8999999999999999,5.5,40.4,Medium
+V0172,Price LLC,Defense,Tier 2/3,47,Barbados,1.0,3.0,11.0,0.0,1.0499999999999998,3.3,0.0,0.15,4.5,33.1,Medium
+V0173,Ruiz-Adams,Cloud,Tier 2/3,50,Slovenia,3.0,1.0,0.0,0.0,0.35,0.0,0.0,0.44999999999999996,0.7999999999999999,5.9,Low
+V0174,"Wilson, Jackson and Smith",Defense,Tier 1,91,Vanuatu,6.0,1.0,3.0,16.0,0.35,0.8999999999999999,3.2,0.8999999999999999,5.35,39.3,Medium
+V0175,Wilson-Tucker,Finance,Tier 1,94,Philippines,12.0,3.0,6.0,3.0,1.0499999999999998,1.7999999999999998,0.6000000000000001,1.7999999999999998,5.25,38.6,Medium
+V0176,Morrison PLC,Finance,Tier 2/3,45,Burkina Faso,10.0,0.0,6.0,0.0,0.0,1.7999999999999998,0.0,1.5,3.3,24.3,Low
+V0177,"Ochoa, Brewer and Simmons",Logistics,Tier 2/3,49,Taiwan,0.0,10.0,3.0,3.0,3.5,0.8999999999999999,0.6000000000000001,0.0,5.0,36.8,Medium
+V0178,Brown-Jones,Cloud,Tier 1,85,Sri Lanka,0.0,6.0,3.0,1.0,2.0999999999999996,0.8999999999999999,0.2,0.0,3.1999999999999997,23.5,Low
+V0179,Jones-Haynes,Finance,Tier 2/3,62,Sierra Leone,6.0,10.0,0.0,0.0,3.5,0.0,0.0,0.8999999999999999,4.4,32.4,Medium
+V0180,Welch LLC,Finance,Tier 2/3,46,Brazil,0.0,7.0,11.0,3.0,2.4499999999999997,3.3,0.6000000000000001,0.0,6.35,46.7,Medium
+V0181,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea,10.0,2.0,3.0,3.0,0.7,0.8999999999999999,0.6000000000000001,1.5,3.7,27.2,Medium
+V0182,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain,1.0,15.0,0.0,7.0,5.25,0.0,1.4000000000000001,0.15,6.800000000000001,50.0,High
+V0183,Hale-Taylor,Finance,Tier 2/3,38,Kuwait,0.0,3.0,0.0,0.0,1.0499999999999998,0.0,0.0,0.0,1.0499999999999998,7.7,Low
+V0184,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic,0.0,4.0,11.0,11.0,1.4,3.3,2.2,0.0,6.8999999999999995,50.7,High
+V0185,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue,0.0,3.0,8.0,16.0,1.0499999999999998,2.4,3.2,0.0,6.65,48.9,Medium
+V0186,"Romero, Cooley and Cisneros",Cloud,Tier 2/3,72,Fiji,0.0,1.0,1.0,1.0,0.35,0.3,0.2,0.0,0.8499999999999999,6.2,Low
+V0187,Black-Martin,Finance,Tier 2/3,73,Martinique,22.0,0.0,17.0,10.0,0.0,5.1,2.0,3.3,10.399999999999999,76.5,Critical
+V0188,"Medina, Smith and Hernandez",Defense,Tier 2/3,42,Monaco,3.0,0.0,11.0,0.0,0.0,3.3,0.0,0.44999999999999996,3.75,27.6,Medium
+V0189,Harris LLC,Cloud,Tier 2/3,53,Maldives,0.0,1.0,10.0,1.0,0.35,3.0,0.2,0.0,3.5500000000000003,26.1,Medium
+V0190,Johnson and Sons,Manufacturing,Tier 2/3,31,Mayotte,10.0,3.0,6.0,0.0,1.0499999999999998,1.7999999999999998,0.0,1.5,4.35,32.0,Medium
+V0191,Miller Group,Healthcare,Tier 2/3,49,Iceland,0.0,15.0,3.0,10.0,5.25,0.8999999999999999,2.0,0.0,8.15,59.9,High
+V0192,Garcia-Davis,Logistics,Tier 2/3,44,Thailand,10.0,10.0,1.0,12.0,3.5,0.3,2.4000000000000004,1.5,7.7,56.6,High
+V0193,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe,0.0,7.0,16.0,6.0,2.4499999999999997,4.8,1.2000000000000002,0.0,8.45,62.1,High
+V0194,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy,11.0,0.0,21.0,10.0,0.0,6.3,2.0,1.65,9.950000000000001,73.2,High
+V0195,"Williams, Spears and Wolfe",Defense,Tier 2/3,80,Timor-Leste,0.0,2.0,6.0,2.0,0.7,1.7999999999999998,0.4,0.0,2.9,21.3,Low
+V0196,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon,0.0,15.0,3.0,4.0,5.25,0.8999999999999999,0.8,0.0,6.95,51.1,High
+V0197,Brown-Anthony,Finance,Tier 2/3,49,Latvia,9.0,4.0,0.0,3.0,1.4,0.0,0.6000000000000001,1.3499999999999999,3.3499999999999996,24.6,Low
+V0198,West Group,Manufacturing,Tier 1,99,Isle of Man,3.0,6.0,6.0,6.0,2.0999999999999996,1.7999999999999998,1.2000000000000002,0.44999999999999996,5.55,40.8,Medium
+V0199,"Gould, Gilbert and Burton",Cloud,Tier 2/3,35,French Polynesia,0.0,14.0,0.0,0.0,4.8999999999999995,0.0,0.0,0.0,4.8999999999999995,36.0,Medium
+V0200,"Roberts, Anderson and Snyder",Logistics,Tier 2/3,51,Finland,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.2,1.5,Low

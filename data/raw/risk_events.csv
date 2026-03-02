@@ -1,0 +1,909 @@
+vendor_id,day,risk_category,severity
+V0001,3,Data Breach,Medium
+V0001,19,Ransomware,Medium
+V0001,36,Vulnerability,Low
+V0001,100,Ransomware,Critical
+V0001,141,Vulnerability,Low
+V0001,179,Ransomware,Medium
+V0002,9,Data Breach,Low
+V0002,68,Vulnerability,Low
+V0002,170,Vulnerability,Medium
+V0003,6,Vulnerability,Low
+V0003,22,Vulnerability,Low
+V0003,28,Data Breach,High
+V0003,55,Compliance,Critical
+V0003,77,Data Breach,Low
+V0003,117,Vulnerability,Critical
+V0003,134,Data Breach,Medium
+V0003,157,Data Breach,Medium
+V0003,168,Vulnerability,Medium
+V0004,7,Data Breach,High
+V0004,42,Vulnerability,Low
+V0005,2,Data Breach,Low
+V0005,52,Vulnerability,Low
+V0005,104,Data Breach,High
+V0005,117,Data Breach,Critical
+V0006,26,Ransomware,High
+V0006,94,Ransomware,Medium
+V0006,110,Ransomware,Medium
+V0006,169,Vulnerability,Medium
+V0007,42,Data Breach,Critical
+V0007,58,Data Breach,Critical
+V0007,68,Compliance,High
+V0007,70,Ransomware,Medium
+V0007,73,Vulnerability,Low
+V0007,145,Data Breach,Low
+V0008,12,Data Breach,Low
+V0008,34,Compliance,High
+V0008,49,Vulnerability,High
+V0008,85,Ransomware,Medium
+V0008,92,Ransomware,Medium
+V0008,96,Compliance,High
+V0008,103,Vulnerability,High
+V0008,104,Compliance,High
+V0008,116,Data Breach,Low
+V0008,125,Compliance,Low
+V0009,82,Vulnerability,Critical
+V0010,32,Compliance,Medium
+V0010,53,Data Breach,Medium
+V0010,74,Vulnerability,Medium
+V0010,83,Data Breach,Critical
+V0010,130,Vulnerability,Low
+V0010,150,Ransomware,Low
+V0010,165,Compliance,Critical
+V0011,10,Data Breach,Medium
+V0011,168,Vulnerability,Low
+V0012,53,Vulnerability,Low
+V0012,56,Compliance,Low
+V0012,97,Compliance,High
+V0012,135,Compliance,Medium
+V0012,144,Vulnerability,Low
+V0012,164,Data Breach,Low
+V0013,40,Compliance,Low
+V0013,54,Data Breach,High
+V0013,77,Compliance,Critical
+V0013,95,Data Breach,Low
+V0013,150,Compliance,High
+V0013,178,Vulnerability,Low
+V0014,41,Vulnerability,High
+V0014,121,Compliance,Low
+V0014,156,Ransomware,Low
+V0015,74,Ransomware,High
+V0015,93,Compliance,High
+V0015,103,Data Breach,Medium
+V0015,116,Data Breach,High
+V0015,143,Vulnerability,Medium
+V0016,32,Vulnerability,Low
+V0016,46,Vulnerability,Medium
+V0016,115,Ransomware,Medium
+V0017,7,Ransomware,Low
+V0017,17,Compliance,High
+V0017,35,Vulnerability,High
+V0017,53,Ransomware,Medium
+V0017,79,Ransomware,High
+V0017,105,Vulnerability,Low
+V0017,116,Compliance,Critical
+V0017,149,Vulnerability,Low
+V0017,152,Data Breach,Low
+V0017,158,Data Breach,Medium
+V0018,94,Ransomware,High
+V0019,26,Ransomware,Critical
+V0019,34,Ransomware,Medium
+V0019,48,Vulnerability,High
+V0019,60,Data Breach,Medium
+V0019,70,Vulnerability,Low
+V0019,133,Vulnerability,Medium
+V0020,36,Ransomware,Low
+V0020,38,Compliance,Low
+V0020,40,Vulnerability,Low
+V0020,122,Data Breach,Low
+V0021,53,Compliance,Low
+V0021,82,Ransomware,Low
+V0022,69,Ransomware,Medium
+V0023,57,Compliance,Medium
+V0023,58,Data Breach,Medium
+V0023,91,Compliance,High
+V0023,142,Data Breach,Low
+V0023,152,Data Breach,Low
+V0023,164,Data Breach,Low
+V0024,8,Data Breach,Medium
+V0024,86,Compliance,High
+V0024,112,Data Breach,Low
+V0024,139,Data Breach,Low
+V0024,176,Compliance,Low
+V0025,62,Compliance,Medium
+V0025,68,Data Breach,Low
+V0025,87,Vulnerability,High
+V0025,110,Ransomware,High
+V0025,151,Ransomware,Low
+V0026,123,Data Breach,Low
+V0026,126,Compliance,Medium
+V0027,148,Compliance,Low
+V0028,113,Compliance,High
+V0028,164,Ransomware,Medium
+V0029,108,Ransomware,High
+V0030,145,Vulnerability,Low
+V0031,13,Vulnerability,Low
+V0031,31,Data Breach,Critical
+V0031,150,Ransomware,Low
+V0032,10,Vulnerability,Medium
+V0032,99,Data Breach,Medium
+V0032,114,Data Breach,Medium
+V0032,116,Compliance,Low
+V0033,19,Data Breach,Low
+V0033,162,Ransomware,Medium
+V0034,11,Vulnerability,High
+V0034,71,Vulnerability,Medium
+V0034,111,Ransomware,High
+V0034,163,Ransomware,Medium
+V0035,3,Data Breach,Low
+V0035,7,Data Breach,Low
+V0035,58,Vulnerability,Medium
+V0035,77,Data Breach,High
+V0035,81,Ransomware,Critical
+V0035,88,Ransomware,High
+V0035,112,Compliance,Medium
+V0035,116,Data Breach,Low
+V0035,154,Ransomware,Low
+V0036,67,Compliance,Low
+V0036,100,Data Breach,Low
+V0036,131,Compliance,Low
+V0036,140,Data Breach,Medium
+V0036,169,Ransomware,Low
+V0037,16,Ransomware,High
+V0037,66,Data Breach,Low
+V0037,80,Data Breach,High
+V0037,81,Compliance,Low
+V0038,15,Compliance,Low
+V0038,26,Vulnerability,High
+V0038,74,Ransomware,High
+V0038,93,Vulnerability,Low
+V0039,46,Ransomware,Low
+V0039,63,Data Breach,Medium
+V0039,96,Compliance,High
+V0039,161,Vulnerability,Low
+V0040,64,Data Breach,Medium
+V0040,118,Vulnerability,Low
+V0040,139,Vulnerability,Low
+V0040,171,Ransomware,Low
+V0041,32,Ransomware,Low
+V0041,44,Data Breach,Medium
+V0041,68,Data Breach,Low
+V0042,63,Data Breach,Critical
+V0042,84,Ransomware,Critical
+V0043,7,Ransomware,Low
+V0043,10,Vulnerability,Medium
+V0043,17,Ransomware,Low
+V0043,52,Vulnerability,High
+V0043,153,Vulnerability,Medium
+V0044,80,Compliance,High
+V0045,4,Compliance,Medium
+V0045,79,Data Breach,Critical
+V0046,62,Data Breach,Medium
+V0046,173,Data Breach,High
+V0047,11,Compliance,High
+V0047,27,Data Breach,Medium
+V0047,38,Data Breach,Medium
+V0047,82,Compliance,Low
+V0047,86,Vulnerability,Low
+V0047,115,Compliance,Low
+V0047,172,Data Breach,Low
+V0048,19,Data Breach,Medium
+V0048,43,Vulnerability,Low
+V0048,95,Data Breach,Low
+V0049,56,Compliance,High
+V0049,74,Data Breach,Low
+V0049,96,Vulnerability,High
+V0050,55,Compliance,Medium
+V0051,40,Compliance,Medium
+V0051,98,Vulnerability,Low
+V0051,148,Ransomware,Low
+V0052,68,Vulnerability,Critical
+V0052,80,Compliance,Medium
+V0052,101,Data Breach,Low
+V0052,164,Data Breach,Low
+V0053,51,Ransomware,Critical
+V0053,109,Ransomware,Medium
+V0053,163,Ransomware,Low
+V0053,167,Data Breach,Critical
+V0054,35,Ransomware,Critical
+V0054,56,Ransomware,Medium
+V0054,68,Data Breach,Low
+V0054,69,Data Breach,Medium
+V0054,72,Data Breach,Low
+V0054,79,Ransomware,High
+V0054,137,Ransomware,Medium
+V0054,157,Vulnerability,High
+V0054,169,Compliance,Low
+V0055,64,Ransomware,Low
+V0057,4,Vulnerability,High
+V0057,19,Compliance,Medium
+V0057,44,Data Breach,Low
+V0057,73,Vulnerability,Medium
+V0057,95,Data Breach,Medium
+V0057,115,Vulnerability,Low
+V0057,176,Vulnerability,High
+V0058,29,Data Breach,Low
+V0059,30,Data Breach,Low
+V0059,36,Ransomware,Low
+V0059,50,Compliance,Low
+V0059,53,Ransomware,Medium
+V0059,80,Data Breach,Low
+V0059,81,Data Breach,Low
+V0059,88,Data Breach,Medium
+V0059,107,Compliance,Low
+V0059,143,Data Breach,Medium
+V0060,41,Vulnerability,High
+V0060,68,Vulnerability,Medium
+V0060,167,Vulnerability,Medium
+V0061,43,Vulnerability,Low
+V0061,44,Vulnerability,Low
+V0061,50,Data Breach,Low
+V0061,57,Ransomware,Medium
+V0061,63,Vulnerability,Low
+V0061,77,Data Breach,Medium
+V0061,79,Vulnerability,Medium
+V0062,112,Data Breach,Low
+V0062,124,Data Breach,Low
+V0062,126,Compliance,High
+V0062,170,Vulnerability,Medium
+V0062,172,Ransomware,High
+V0063,153,Data Breach,Critical
+V0063,155,Data Breach,Low
+V0065,62,Data Breach,Medium
+V0065,93,Vulnerability,High
+V0065,108,Data Breach,Medium
+V0065,157,Data Breach,Medium
+V0066,16,Vulnerability,High
+V0066,70,Compliance,High
+V0066,100,Vulnerability,Medium
+V0067,10,Ransomware,Low
+V0067,52,Data Breach,Medium
+V0067,102,Compliance,Low
+V0068,22,Vulnerability,Low
+V0068,47,Compliance,Critical
+V0068,73,Vulnerability,Critical
+V0068,102,Data Breach,Medium
+V0068,109,Ransomware,Medium
+V0069,53,Vulnerability,Medium
+V0069,81,Data Breach,Medium
+V0069,97,Data Breach,Low
+V0069,166,Vulnerability,Critical
+V0069,176,Vulnerability,Low
+V0070,2,Ransomware,High
+V0070,18,Ransomware,High
+V0070,26,Ransomware,Medium
+V0070,46,Ransomware,Low
+V0070,70,Data Breach,High
+V0070,72,Ransomware,Medium
+V0070,108,Vulnerability,Low
+V0070,143,Data Breach,High
+V0070,149,Vulnerability,Low
+V0070,171,Data Breach,High
+V0071,39,Data Breach,High
+V0071,40,Compliance,High
+V0071,130,Ransomware,Low
+V0071,139,Vulnerability,Medium
+V0071,175,Vulnerability,High
+V0072,11,Compliance,Low
+V0072,28,Vulnerability,Critical
+V0072,34,Vulnerability,Low
+V0072,77,Compliance,Medium
+V0072,86,Data Breach,High
+V0073,37,Data Breach,High
+V0073,44,Ransomware,Low
+V0073,74,Ransomware,Medium
+V0073,104,Ransomware,Low
+V0074,15,Compliance,Low
+V0074,45,Data Breach,High
+V0074,51,Data Breach,Low
+V0074,57,Ransomware,Medium
+V0074,89,Ransomware,Medium
+V0074,141,Data Breach,Medium
+V0074,145,Ransomware,Low
+V0074,165,Vulnerability,Medium
+V0074,178,Vulnerability,Medium
+V0075,4,Data Breach,Low
+V0075,68,Vulnerability,High
+V0075,72,Data Breach,High
+V0075,82,Data Breach,Medium
+V0075,105,Vulnerability,Critical
+V0075,110,Ransomware,Low
+V0075,120,Data Breach,Low
+V0075,123,Ransomware,Medium
+V0076,50,Vulnerability,Medium
+V0076,79,Ransomware,Medium
+V0076,127,Vulnerability,Medium
+V0076,140,Ransomware,High
+V0076,143,Compliance,Medium
+V0076,165,Data Breach,Critical
+V0077,12,Vulnerability,High
+V0077,46,Compliance,Low
+V0077,67,Ransomware,Low
+V0077,80,Ransomware,High
+V0077,144,Vulnerability,High
+V0077,145,Vulnerability,Medium
+V0077,155,Vulnerability,Low
+V0078,54,Data Breach,Low
+V0078,141,Compliance,Medium
+V0078,158,Vulnerability,Low
+V0078,163,Vulnerability,Critical
+V0079,86,Vulnerability,Critical
+V0079,109,Vulnerability,High
+V0079,110,Ransomware,Low
+V0079,118,Ransomware,Low
+V0079,132,Vulnerability,Critical
+V0079,135,Vulnerability,Low
+V0081,3,Data Breach,Low
+V0081,85,Vulnerability,Low
+V0081,165,Vulnerability,Medium
+V0082,10,Vulnerability,Medium
+V0082,28,Data Breach,Low
+V0082,127,Ransomware,High
+V0083,5,Data Breach,High
+V0083,13,Vulnerability,Critical
+V0083,111,Compliance,Low
+V0084,20,Data Breach,Low
+V0084,44,Data Breach,Critical
+V0084,46,Vulnerability,Medium
+V0084,118,Vulnerability,Critical
+V0085,4,Ransomware,Low
+V0085,44,Ransomware,Medium
+V0085,59,Data Breach,Medium
+V0085,120,Vulnerability,Low
+V0085,148,Data Breach,High
+V0086,126,Data Breach,High
+V0086,164,Data Breach,Medium
+V0087,4,Vulnerability,Medium
+V0087,78,Compliance,High
+V0087,104,Vulnerability,Medium
+V0088,13,Vulnerability,Medium
+V0088,22,Vulnerability,Medium
+V0088,30,Data Breach,Low
+V0088,66,Compliance,Low
+V0088,114,Vulnerability,Medium
+V0088,164,Vulnerability,High
+V0088,168,Ransomware,Low
+V0088,169,Data Breach,Medium
+V0089,14,Vulnerability,Medium
+V0089,25,Vulnerability,Low
+V0089,47,Vulnerability,Low
+V0089,155,Ransomware,Medium
+V0090,26,Data Breach,Medium
+V0090,30,Vulnerability,Medium
+V0091,23,Ransomware,Low
+V0091,38,Vulnerability,Low
+V0092,49,Vulnerability,Low
+V0092,65,Data Breach,Low
+V0093,5,Ransomware,High
+V0093,68,Ransomware,High
+V0093,91,Vulnerability,High
+V0093,159,Data Breach,Low
+V0093,168,Compliance,Critical
+V0094,0,Ransomware,Critical
+V0094,16,Data Breach,Medium
+V0094,105,Vulnerability,Medium
+V0094,177,Data Breach,High
+V0095,72,Compliance,Low
+V0095,174,Vulnerability,Medium
+V0096,31,Data Breach,High
+V0096,72,Ransomware,Low
+V0096,134,Ransomware,Low
+V0096,149,Data Breach,Medium
+V0097,59,Vulnerability,Medium
+V0097,126,Vulnerability,Low
+V0097,129,Ransomware,Low
+V0098,21,Vulnerability,Low
+V0098,55,Ransomware,Low
+V0098,155,Compliance,Low
+V0099,51,Compliance,Medium
+V0099,146,Data Breach,Low
+V0099,166,Compliance,Medium
+V0099,167,Ransomware,Low
+V0099,177,Vulnerability,Low
+V0100,102,Ransomware,High
+V0100,104,Vulnerability,Medium
+V0100,139,Ransomware,Medium
+V0100,145,Ransomware,Medium
+V0101,2,Ransomware,Medium
+V0101,13,Data Breach,Medium
+V0101,44,Ransomware,Low
+V0101,116,Vulnerability,Low
+V0101,136,Data Breach,Medium
+V0102,44,Ransomware,Medium
+V0102,78,Ransomware,Critical
+V0102,89,Data Breach,Medium
+V0102,149,Data Breach,Low
+V0102,155,Vulnerability,Low
+V0103,45,Compliance,Medium
+V0103,47,Ransomware,Low
+V0103,60,Vulnerability,Medium
+V0103,63,Vulnerability,Medium
+V0103,77,Vulnerability,Medium
+V0103,118,Vulnerability,Critical
+V0103,119,Data Breach,Critical
+V0103,120,Vulnerability,Low
+V0103,171,Data Breach,Low
+V0103,178,Vulnerability,Low
+V0104,142,Data Breach,Critical
+V0104,146,Compliance,High
+V0105,53,Vulnerability,Low
+V0105,69,Vulnerability,Low
+V0106,31,Data Breach,Medium
+V0106,37,Vulnerability,Low
+V0106,42,Data Breach,Medium
+V0106,83,Ransomware,High
+V0107,0,Compliance,Low
+V0107,85,Vulnerability,High
+V0107,125,Vulnerability,Critical
+V0107,136,Data Breach,High
+V0108,73,Ransomware,Low
+V0108,111,Ransomware,Critical
+V0109,18,Vulnerability,Medium
+V0109,50,Vulnerability,Medium
+V0109,111,Compliance,Medium
+V0109,119,Vulnerability,Low
+V0109,142,Data Breach,High
+V0110,11,Data Breach,Critical
+V0110,60,Vulnerability,Low
+V0110,66,Ransomware,Medium
+V0110,79,Ransomware,Low
+V0110,81,Vulnerability,High
+V0110,158,Ransomware,Medium
+V0111,98,Data Breach,Low
+V0111,128,Vulnerability,Medium
+V0111,137,Vulnerability,Low
+V0111,177,Ransomware,High
+V0112,105,Data Breach,Low
+V0112,116,Data Breach,Low
+V0113,3,Compliance,Medium
+V0113,5,Data Breach,High
+V0113,19,Compliance,Low
+V0113,27,Vulnerability,Medium
+V0113,35,Vulnerability,High
+V0113,42,Vulnerability,Critical
+V0113,109,Vulnerability,Medium
+V0113,113,Ransomware,Medium
+V0113,141,Data Breach,Medium
+V0114,19,Ransomware,Medium
+V0114,66,Vulnerability,High
+V0114,77,Vulnerability,Critical
+V0114,112,Vulnerability,Low
+V0114,136,Compliance,Low
+V0114,171,Ransomware,Medium
+V0115,49,Compliance,Medium
+V0115,73,Ransomware,Critical
+V0116,1,Data Breach,Medium
+V0116,17,Compliance,Critical
+V0116,104,Ransomware,Low
+V0116,118,Data Breach,Medium
+V0116,157,Ransomware,Critical
+V0117,9,Data Breach,Medium
+V0117,25,Data Breach,Critical
+V0117,45,Ransomware,Low
+V0117,51,Data Breach,Low
+V0117,68,Data Breach,Low
+V0117,79,Vulnerability,Medium
+V0117,103,Ransomware,Low
+V0117,164,Data Breach,High
+V0118,7,Compliance,Medium
+V0118,20,Vulnerability,High
+V0118,126,Data Breach,Critical
+V0118,159,Ransomware,Medium
+V0118,173,Ransomware,Low
+V0119,47,Vulnerability,Medium
+V0119,68,Data Breach,Low
+V0119,94,Data Breach,Low
+V0119,137,Ransomware,Medium
+V0120,49,Data Breach,High
+V0120,53,Compliance,Low
+V0120,134,Data Breach,High
+V0120,135,Compliance,Low
+V0120,150,Compliance,Low
+V0121,21,Compliance,Medium
+V0121,34,Vulnerability,High
+V0121,56,Ransomware,Critical
+V0121,162,Data Breach,Medium
+V0121,179,Ransomware,Critical
+V0122,51,Vulnerability,Low
+V0122,66,Vulnerability,Low
+V0122,90,Data Breach,Low
+V0122,134,Data Breach,High
+V0123,10,Data Breach,High
+V0123,23,Data Breach,Low
+V0123,40,Compliance,Low
+V0123,60,Compliance,Critical
+V0123,81,Compliance,Low
+V0123,131,Vulnerability,Low
+V0123,132,Data Breach,Low
+V0123,156,Data Breach,Low
+V0123,163,Ransomware,Low
+V0123,177,Ransomware,Low
+V0124,2,Vulnerability,Low
+V0124,29,Data Breach,High
+V0124,50,Ransomware,High
+V0124,58,Ransomware,Medium
+V0124,63,Ransomware,Medium
+V0124,69,Ransomware,Low
+V0124,87,Compliance,Low
+V0124,177,Ransomware,Low
+V0125,51,Data Breach,Low
+V0125,105,Data Breach,Medium
+V0126,14,Vulnerability,Low
+V0126,34,Ransomware,Medium
+V0126,44,Compliance,Low
+V0126,116,Ransomware,Medium
+V0126,119,Ransomware,Low
+V0126,127,Vulnerability,High
+V0126,136,Ransomware,High
+V0126,161,Ransomware,High
+V0127,3,Ransomware,Medium
+V0127,73,Data Breach,Low
+V0127,90,Compliance,High
+V0127,140,Vulnerability,Medium
+V0127,150,Compliance,Low
+V0128,12,Ransomware,Low
+V0128,20,Compliance,High
+V0128,55,Vulnerability,Low
+V0128,69,Ransomware,High
+V0128,104,Data Breach,Low
+V0128,134,Data Breach,Medium
+V0128,137,Ransomware,Medium
+V0129,7,Data Breach,Medium
+V0129,38,Ransomware,Low
+V0129,137,Data Breach,Low
+V0129,176,Compliance,Medium
+V0130,29,Vulnerability,Low
+V0130,34,Data Breach,Low
+V0130,46,Data Breach,High
+V0130,65,Data Breach,High
+V0130,86,Ransomware,Low
+V0130,90,Vulnerability,Medium
+V0130,161,Ransomware,Medium
+V0130,169,Ransomware,Low
+V0130,176,Data Breach,Low
+V0131,24,Compliance,Medium
+V0131,47,Vulnerability,Low
+V0131,61,Vulnerability,Low
+V0131,94,Ransomware,Critical
+V0131,114,Data Breach,Low
+V0132,18,Compliance,High
+V0132,50,Ransomware,Medium
+V0133,6,Data Breach,Critical
+V0133,70,Data Breach,Medium
+V0133,76,Ransomware,Low
+V0133,175,Vulnerability,High
+V0134,40,Data Breach,High
+V0134,97,Ransomware,Low
+V0134,124,Ransomware,Critical
+V0134,133,Compliance,Medium
+V0134,171,Compliance,Critical
+V0135,54,Data Breach,Low
+V0135,90,Data Breach,High
+V0135,125,Data Breach,Low
+V0135,141,Data Breach,Low
+V0135,151,Vulnerability,Medium
+V0135,161,Data Breach,Medium
+V0135,169,Ransomware,Low
+V0136,28,Ransomware,Medium
+V0136,84,Vulnerability,High
+V0136,116,Data Breach,Medium
+V0136,160,Vulnerability,Low
+V0137,16,Vulnerability,High
+V0137,86,Ransomware,Medium
+V0138,5,Ransomware,Critical
+V0138,157,Data Breach,Critical
+V0139,17,Data Breach,Low
+V0139,118,Vulnerability,Low
+V0139,138,Data Breach,High
+V0140,17,Ransomware,Low
+V0140,29,Vulnerability,Medium
+V0140,80,Vulnerability,Low
+V0140,83,Ransomware,Low
+V0140,104,Compliance,Medium
+V0140,121,Compliance,Medium
+V0140,122,Compliance,Low
+V0140,128,Ransomware,Low
+V0140,132,Vulnerability,High
+V0140,172,Ransomware,Medium
+V0141,83,Vulnerability,High
+V0141,90,Vulnerability,Medium
+V0141,111,Data Breach,Medium
+V0141,143,Ransomware,Critical
+V0141,150,Data Breach,High
+V0141,177,Data Breach,High
+V0142,0,Data Breach,Low
+V0142,29,Data Breach,Medium
+V0142,38,Vulnerability,High
+V0142,60,Vulnerability,Low
+V0142,71,Vulnerability,Low
+V0142,73,Compliance,Low
+V0142,179,Vulnerability,Low
+V0143,6,Vulnerability,Medium
+V0143,15,Ransomware,High
+V0143,24,Ransomware,Medium
+V0143,44,Compliance,High
+V0143,55,Vulnerability,Low
+V0143,83,Compliance,Low
+V0143,102,Vulnerability,Medium
+V0143,103,Compliance,Low
+V0143,106,Ransomware,Medium
+V0143,135,Data Breach,Critical
+V0143,159,Compliance,High
+V0143,172,Ransomware,Critical
+V0144,1,Data Breach,Medium
+V0144,33,Data Breach,Critical
+V0144,55,Compliance,High
+V0144,61,Compliance,Medium
+V0144,130,Ransomware,Low
+V0145,38,Vulnerability,Low
+V0145,88,Vulnerability,High
+V0145,128,Vulnerability,High
+V0145,178,Ransomware,Critical
+V0146,16,Ransomware,Low
+V0146,58,Data Breach,High
+V0146,73,Vulnerability,High
+V0146,93,Vulnerability,Low
+V0146,124,Vulnerability,Low
+V0147,1,Compliance,High
+V0147,22,Vulnerability,Low
+V0147,28,Compliance,High
+V0147,34,Vulnerability,Low
+V0147,57,Vulnerability,Critical
+V0147,94,Vulnerability,High
+V0148,33,Data Breach,Low
+V0148,75,Vulnerability,High
+V0148,90,Ransomware,Low
+V0148,119,Vulnerability,Medium
+V0148,170,Vulnerability,Low
+V0149,55,Ransomware,Low
+V0149,95,Data Breach,Critical
+V0149,100,Vulnerability,Medium
+V0149,156,Compliance,High
+V0150,25,Compliance,Medium
+V0150,41,Compliance,Medium
+V0150,59,Compliance,Low
+V0150,133,Ransomware,Medium
+V0150,153,Data Breach,Medium
+V0151,11,Vulnerability,High
+V0151,76,Vulnerability,Medium
+V0151,82,Data Breach,Medium
+V0151,148,Vulnerability,Medium
+V0151,167,Vulnerability,Low
+V0152,13,Compliance,Low
+V0152,148,Ransomware,Low
+V0153,31,Vulnerability,High
+V0153,46,Ransomware,Low
+V0153,56,Ransomware,Critical
+V0153,65,Compliance,Critical
+V0153,91,Data Breach,Low
+V0153,108,Vulnerability,Medium
+V0153,131,Vulnerability,High
+V0153,142,Vulnerability,Medium
+V0153,145,Data Breach,Low
+V0153,149,Data Breach,Low
+V0153,164,Data Breach,Low
+V0153,175,Data Breach,Low
+V0154,178,Vulnerability,Low
+V0155,14,Vulnerability,Medium
+V0155,27,Data Breach,Medium
+V0155,78,Ransomware,Medium
+V0155,86,Compliance,Low
+V0155,109,Compliance,Critical
+V0155,129,Ransomware,Low
+V0156,23,Ransomware,Low
+V0156,50,Vulnerability,Low
+V0156,116,Vulnerability,High
+V0157,32,Vulnerability,Low
+V0157,33,Ransomware,Medium
+V0157,50,Ransomware,High
+V0157,58,Data Breach,High
+V0157,77,Ransomware,Critical
+V0157,96,Vulnerability,Medium
+V0158,5,Compliance,Critical
+V0158,30,Compliance,High
+V0158,54,Ransomware,Low
+V0158,88,Ransomware,Low
+V0158,113,Ransomware,Low
+V0158,172,Vulnerability,Low
+V0159,110,Ransomware,Low
+V0159,179,Data Breach,Low
+V0160,26,Data Breach,Medium
+V0160,73,Ransomware,Critical
+V0160,107,Ransomware,Medium
+V0161,85,Data Breach,High
+V0161,91,Ransomware,Low
+V0161,157,Data Breach,Medium
+V0162,55,Compliance,Critical
+V0162,59,Data Breach,Medium
+V0162,74,Ransomware,Critical
+V0162,76,Data Breach,Low
+V0162,83,Vulnerability,Low
+V0162,92,Data Breach,Medium
+V0162,96,Ransomware,High
+V0163,19,Data Breach,Medium
+V0163,38,Data Breach,High
+V0163,61,Vulnerability,Low
+V0163,65,Vulnerability,Low
+V0163,68,Vulnerability,Medium
+V0163,81,Vulnerability,Medium
+V0163,92,Data Breach,Medium
+V0163,127,Ransomware,Medium
+V0163,160,Data Breach,Medium
+V0164,78,Compliance,Low
+V0164,87,Data Breach,Low
+V0164,151,Ransomware,Critical
+V0165,27,Vulnerability,Medium
+V0165,38,Vulnerability,Critical
+V0165,64,Compliance,High
+V0165,83,Vulnerability,Low
+V0165,94,Ransomware,High
+V0166,4,Data Breach,High
+V0166,44,Vulnerability,Low
+V0166,64,Compliance,Low
+V0166,88,Data Breach,Medium
+V0166,91,Ransomware,Medium
+V0166,115,Data Breach,High
+V0166,140,Ransomware,Medium
+V0167,69,Data Breach,High
+V0167,92,Ransomware,Medium
+V0167,93,Ransomware,Low
+V0168,5,Data Breach,Medium
+V0168,38,Data Breach,Low
+V0168,116,Vulnerability,High
+V0168,125,Ransomware,Low
+V0169,91,Vulnerability,High
+V0169,152,Compliance,Medium
+V0169,161,Ransomware,Low
+V0169,178,Vulnerability,High
+V0170,12,Compliance,Critical
+V0170,14,Vulnerability,Medium
+V0170,43,Vulnerability,Medium
+V0170,75,Vulnerability,Medium
+V0170,139,Ransomware,Low
+V0170,173,Compliance,Critical
+V0171,13,Data Breach,Low
+V0171,19,Ransomware,Critical
+V0171,65,Vulnerability,Low
+V0171,141,Data Breach,Medium
+V0171,156,Compliance,High
+V0172,33,Compliance,Low
+V0172,119,Ransomware,Critical
+V0172,124,Ransomware,Low
+V0172,176,Data Breach,Medium
+V0173,78,Data Breach,Low
+V0173,96,Compliance,Medium
+V0174,8,Ransomware,Medium
+V0174,54,Vulnerability,High
+V0174,61,Compliance,High
+V0174,140,Vulnerability,Critical
+V0174,144,Data Breach,Low
+V0175,1,Compliance,Medium
+V0175,12,Data Breach,Medium
+V0175,35,Compliance,High
+V0175,55,Compliance,Medium
+V0175,62,Vulnerability,Low
+V0175,68,Vulnerability,Low
+V0175,146,Vulnerability,Low
+V0175,153,Ransomware,High
+V0176,26,Ransomware,High
+V0176,121,Compliance,Critical
+V0177,55,Data Breach,Critical
+V0177,91,Ransomware,Medium
+V0177,149,Vulnerability,Medium
+V0178,49,Vulnerability,Low
+V0178,125,Ransomware,Medium
+V0178,173,Data Breach,High
+V0179,3,Compliance,High
+V0179,146,Data Breach,Critical
+V0180,26,Data Breach,Low
+V0180,38,Vulnerability,Medium
+V0180,75,Ransomware,Low
+V0180,108,Ransomware,Critical
+V0180,113,Data Breach,Low
+V0180,114,Data Breach,Low
+V0180,135,Data Breach,Low
+V0180,151,Data Breach,Medium
+V0181,32,Data Breach,Low
+V0181,34,Data Breach,Low
+V0181,44,Ransomware,Medium
+V0181,52,Vulnerability,Low
+V0181,65,Vulnerability,Low
+V0181,78,Vulnerability,Low
+V0181,160,Compliance,Critical
+V0182,21,Data Breach,Medium
+V0182,39,Data Breach,High
+V0182,84,Compliance,Low
+V0182,135,Data Breach,Medium
+V0182,144,Vulnerability,High
+V0182,157,Vulnerability,Low
+V0182,161,Data Breach,Medium
+V0183,19,Data Breach,Medium
+V0184,28,Ransomware,Low
+V0184,73,Data Breach,Low
+V0184,74,Vulnerability,Critical
+V0184,93,Data Breach,Medium
+V0184,105,Ransomware,Critical
+V0184,147,Vulnerability,Low
+V0185,60,Vulnerability,Critical
+V0185,81,Ransomware,Low
+V0185,108,Ransomware,Low
+V0185,123,Ransomware,High
+V0185,155,Data Breach,Medium
+V0185,169,Vulnerability,High
+V0186,11,Vulnerability,Low
+V0186,33,Data Breach,Low
+V0186,41,Ransomware,Low
+V0187,75,Compliance,Medium
+V0187,86,Compliance,Critical
+V0187,115,Ransomware,Critical
+V0187,122,Ransomware,High
+V0187,126,Ransomware,Low
+V0187,127,Vulnerability,Critical
+V0187,152,Compliance,Medium
+V0187,175,Compliance,High
+V0188,34,Ransomware,Low
+V0188,59,Ransomware,Critical
+V0188,171,Compliance,Medium
+V0189,40,Vulnerability,Low
+V0189,71,Data Breach,Low
+V0189,102,Ransomware,Critical
+V0190,25,Compliance,Critical
+V0190,131,Ransomware,High
+V0190,150,Data Breach,Medium
+V0191,2,Vulnerability,High
+V0191,10,Vulnerability,Medium
+V0191,21,Ransomware,Low
+V0191,26,Data Breach,High
+V0191,76,Data Breach,High
+V0191,78,Ransomware,Low
+V0191,85,Vulnerability,Low
+V0191,152,Data Breach,Medium
+V0191,166,Ransomware,Low
+V0192,9,Vulnerability,High
+V0192,16,Vulnerability,Medium
+V0192,49,Data Breach,Low
+V0192,67,Ransomware,Low
+V0192,133,Compliance,Critical
+V0192,168,Data Breach,High
+V0192,172,Vulnerability,Medium
+V0192,177,Data Breach,Medium
+V0193,70,Data Breach,Low
+V0193,78,Vulnerability,Medium
+V0193,88,Data Breach,High
+V0193,123,Ransomware,Critical
+V0193,139,Ransomware,High
+V0193,167,Vulnerability,Medium
+V0194,41,Compliance,Critical
+V0194,47,Ransomware,Critical
+V0194,62,Ransomware,Low
+V0194,113,Compliance,Low
+V0194,148,Vulnerability,Critical
+V0194,155,Ransomware,Critical
+V0195,33,Data Breach,Low
+V0195,41,Data Breach,Low
+V0195,50,Ransomware,High
+V0195,90,Vulnerability,Low
+V0195,149,Vulnerability,Low
+V0196,34,Data Breach,Low
+V0196,63,Vulnerability,Medium
+V0196,88,Vulnerability,Low
+V0196,106,Data Breach,Low
+V0196,109,Data Breach,Medium
+V0196,116,Data Breach,Critical
+V0196,164,Ransomware,Medium
+V0197,25,Vulnerability,Low
+V0197,26,Data Breach,Low
+V0197,59,Vulnerability,Low
+V0197,88,Data Breach,Medium
+V0197,97,Compliance,High
+V0197,116,Compliance,Medium
+V0197,144,Vulnerability,Low
+V0198,1,Data Breach,High
+V0198,18,Compliance,Medium
+V0198,52,Ransomware,High
+V0198,146,Vulnerability,High
+V0199,95,Data Breach,Low
+V0199,113,Data Breach,Critical
+V0199,115,Data Breach,Medium
+V0200,47,Vulnerability,Low

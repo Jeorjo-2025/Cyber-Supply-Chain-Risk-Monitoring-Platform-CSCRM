@@ -1,0 +1,909 @@
+day,vendor_id,event_count,vendor_name,industry,tier,criticality_score,country
+0,V0094,1,"Velez, Jackson and Martin",Logistics,Tier 1,99,Jamaica
+0,V0107,1,Gutierrez Ltd,Cloud,Tier 2/3,50,Japan
+0,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+1,V0116,1,Martinez LLC,Manufacturing,Tier 1,83,Colombia
+1,V0144,1,Peterson and Sons,Manufacturing,Tier 2/3,49,Montserrat
+1,V0147,1,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico
+1,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+1,V0198,1,West Group,Manufacturing,Tier 1,99,Isle of Man
+2,V0005,1,Weiss Inc,Finance,Tier 2/3,40,Kazakhstan
+2,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+2,V0101,1,"Rowland, Johnson and Owens",Defense,Tier 2/3,73,Germany
+2,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+2,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+3,V0001,1,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe
+3,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+3,V0081,1,"Garcia, Thomas and Moore",Logistics,Tier 2/3,76,Bahamas
+3,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+3,V0127,1,Compton-Smith,Defense,Tier 2/3,57,Eritrea
+3,V0179,1,Jones-Haynes,Finance,Tier 2/3,62,Sierra Leone
+4,V0045,1,Sims PLC,Finance,Tier 2/3,51,Kiribati
+4,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+4,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+4,V0085,1,"Rodriguez, Gomez and Anderson",Logistics,Tier 2/3,72,Chad
+4,V0087,1,Hutchinson-Pineda,Defense,Tier 2/3,80,Isle of Man
+4,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+5,V0083,1,Kim-Roberts,Finance,Tier 1,95,Myanmar
+5,V0093,1,Vasquez-Hernandez,Logistics,Tier 2/3,58,Liberia
+5,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+5,V0138,1,"Peters, Martinez and Clark",Logistics,Tier 2/3,68,Cape Verde
+5,V0158,1,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America
+5,V0168,1,Brown LLC,Healthcare,Tier 1,89,Bolivia
+6,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+6,V0133,1,Brown-Lewis,Cloud,Tier 2/3,37,Canada
+6,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+7,V0004,1,"Mccullough, Patel and Pennington",Cloud,Tier 2/3,45,Vietnam
+7,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+7,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+7,V0043,1,Hamilton and Sons,Healthcare,Tier 1,89,Western Sahara
+7,V0118,1,"Carroll, Thomas and Todd",Defense,Tier 2/3,76,Holy See (Vatican City State)
+7,V0129,1,Henderson and Sons,Logistics,Tier 2/3,74,Marshall Islands
+8,V0024,1,"Leonard, Barber and Trujillo",Manufacturing,Tier 2/3,37,Spain
+8,V0174,1,"Wilson, Jackson and Smith",Defense,Tier 1,91,Vanuatu
+9,V0002,1,Floyd PLC,Manufacturing,Tier 2/3,59,French Southern Territories
+9,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+9,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+10,V0011,1,Alvarez-Evans,Logistics,Tier 2/3,47,Bolivia
+10,V0032,1,"Gates, Smith and Smith",Cloud,Tier 2/3,46,Sierra Leone
+10,V0043,1,Hamilton and Sons,Healthcare,Tier 1,89,Western Sahara
+10,V0067,1,Parker-Mckay,Manufacturing,Tier 2/3,63,Yemen
+10,V0082,1,Lopez-Norris,Manufacturing,Tier 2/3,48,Seychelles
+10,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+10,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+11,V0034,1,Montgomery-Cooper,Cloud,Tier 2/3,73,Iraq
+11,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+11,V0072,1,"Evans, Schroeder and Marshall",Logistics,Tier 2/3,74,Morocco
+11,V0110,1,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia
+11,V0151,1,Phillips and Sons,Logistics,Tier 2/3,57,Trinidad and Tobago
+11,V0186,1,"Romero, Cooley and Cisneros",Cloud,Tier 2/3,72,Fiji
+12,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+12,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+12,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+12,V0170,1,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico
+12,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+13,V0031,1,Nguyen Inc,Healthcare,Tier 2/3,73,Svalbard & Jan Mayen Islands
+13,V0083,1,Kim-Roberts,Finance,Tier 1,95,Myanmar
+13,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+13,V0101,1,"Rowland, Johnson and Owens",Defense,Tier 2/3,73,Germany
+13,V0152,1,Wilson Inc,Logistics,Tier 2/3,45,Jersey
+13,V0171,1,Payne-Morris,Healthcare,Tier 2/3,33,Saint Martin
+14,V0089,1,"Parker, Mora and Woods",Healthcare,Tier 2/3,66,British Virgin Islands
+14,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+14,V0155,1,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria
+14,V0170,1,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico
+15,V0038,1,"Phillips, Green and Shelton",Finance,Tier 2/3,63,Dominica
+15,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+15,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+16,V0037,1,"Little, Clark and Yoder",Healthcare,Tier 2/3,70,Aruba
+16,V0066,1,"Williams, Estrada and David",Logistics,Tier 1,100,Mozambique
+16,V0094,1,"Velez, Jackson and Martin",Logistics,Tier 1,99,Jamaica
+16,V0137,1,"Daniel, Ford and Green",Manufacturing,Tier 2/3,31,Congo
+16,V0146,1,"Kim, Schmidt and Hopkins",Manufacturing,Tier 2/3,36,Gabon
+16,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+17,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+17,V0043,1,Hamilton and Sons,Healthcare,Tier 1,89,Western Sahara
+17,V0116,1,Martinez LLC,Manufacturing,Tier 1,83,Colombia
+17,V0139,1,Wilson-Conley,Finance,Tier 2/3,51,Turks and Caicos Islands
+17,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+18,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+18,V0109,1,Harvey-Dyer,Cloud,Tier 2/3,37,Tokelau
+18,V0132,1,Lester-Miller,Manufacturing,Tier 2/3,55,Poland
+18,V0198,1,West Group,Manufacturing,Tier 1,99,Isle of Man
+19,V0001,1,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe
+19,V0033,1,Miranda-Moore,Manufacturing,Tier 2/3,67,Botswana
+19,V0048,1,Smith Ltd,Finance,Tier 2/3,38,Vietnam
+19,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+19,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+19,V0114,1,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan
+19,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+19,V0171,1,Payne-Morris,Healthcare,Tier 2/3,33,Saint Martin
+19,V0183,1,Hale-Taylor,Finance,Tier 2/3,38,Kuwait
+20,V0084,1,Jordan Ltd,Cloud,Tier 2/3,73,Paraguay
+20,V0118,1,"Carroll, Thomas and Todd",Defense,Tier 2/3,76,Holy See (Vatican City State)
+20,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+21,V0098,1,Owens-Gonzales,Manufacturing,Tier 2/3,68,Marshall Islands
+21,V0121,1,"Vargas, Wilson and Bowman",Cloud,Tier 2/3,40,Guam
+21,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+21,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+22,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+22,V0068,1,"Cole, Hernandez and George",Healthcare,Tier 2/3,41,Yemen
+22,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+22,V0147,1,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico
+23,V0091,1,"Roberts, Roberts and Morales",Healthcare,Tier 2/3,31,Western Sahara
+23,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+23,V0156,1,Larsen-Johnson,Logistics,Tier 2/3,43,Cameroon
+24,V0131,1,"Perez, Beard and Larson",Defense,Tier 2/3,59,Slovakia (Slovak Republic)
+24,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+25,V0089,1,"Parker, Mora and Woods",Healthcare,Tier 2/3,66,British Virgin Islands
+25,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+25,V0150,1,"Lopez, Carroll and Huang",Manufacturing,Tier 1,96,Saint Pierre and Miquelon
+25,V0190,1,Johnson and Sons,Manufacturing,Tier 2/3,31,Mayotte
+25,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+26,V0006,1,"Wright, Mendez and Castro",Cloud,Tier 1,85,Togo
+26,V0019,1,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles
+26,V0038,1,"Phillips, Green and Shelton",Finance,Tier 2/3,63,Dominica
+26,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+26,V0090,1,Manning-Carpenter,Logistics,Tier 2/3,52,Georgia
+26,V0160,1,Brock LLC,Healthcare,Tier 2/3,47,Guatemala
+26,V0176,1,Morrison PLC,Finance,Tier 2/3,45,Burkina Faso
+26,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+26,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+26,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+27,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+27,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+27,V0155,1,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria
+27,V0165,1,Wright PLC,Manufacturing,Tier 2/3,45,Malta
+28,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+28,V0072,1,"Evans, Schroeder and Marshall",Logistics,Tier 2/3,74,Morocco
+28,V0082,1,Lopez-Norris,Manufacturing,Tier 2/3,48,Seychelles
+28,V0136,1,Payne-Lambert,Cloud,Tier 2/3,80,Japan
+28,V0147,1,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico
+28,V0184,1,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic
+29,V0058,1,Williams Inc,Manufacturing,Tier 2/3,70,Guinea-Bissau
+29,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+29,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+29,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+29,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+30,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+30,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+30,V0090,1,Manning-Carpenter,Logistics,Tier 2/3,52,Georgia
+30,V0158,1,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America
+31,V0031,1,Nguyen Inc,Healthcare,Tier 2/3,73,Svalbard & Jan Mayen Islands
+31,V0096,1,Lindsey LLC,Cloud,Tier 2/3,49,Kenya
+31,V0106,1,"Smith, Rodriguez and Fuller",Cloud,Tier 2/3,55,Bosnia and Herzegovina
+31,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+32,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+32,V0016,1,Adams PLC,Logistics,Tier 2/3,39,Georgia
+32,V0041,1,Mitchell Inc,Cloud,Tier 2/3,56,France
+32,V0157,1,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa
+32,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+33,V0144,1,Peterson and Sons,Manufacturing,Tier 2/3,49,Montserrat
+33,V0148,1,Johnson-Fox,Healthcare,Tier 2/3,79,Croatia
+33,V0157,1,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa
+33,V0172,1,Price LLC,Defense,Tier 2/3,47,Barbados
+33,V0186,1,"Romero, Cooley and Cisneros",Cloud,Tier 2/3,72,Fiji
+33,V0195,1,"Williams, Spears and Wolfe",Defense,Tier 2/3,80,Timor-Leste
+34,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+34,V0019,1,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles
+34,V0072,1,"Evans, Schroeder and Marshall",Logistics,Tier 2/3,74,Morocco
+34,V0121,1,"Vargas, Wilson and Bowman",Cloud,Tier 2/3,40,Guam
+34,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+34,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+34,V0147,1,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico
+34,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+34,V0188,1,"Medina, Smith and Hernandez",Defense,Tier 2/3,42,Monaco
+34,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+35,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+35,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+35,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+35,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+36,V0001,1,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe
+36,V0020,1,Hall Group,Manufacturing,Tier 1,87,Italy
+36,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+37,V0073,1,Rodriguez and Sons,Logistics,Tier 2/3,60,Falkland Islands (Malvinas)
+37,V0106,1,"Smith, Rodriguez and Fuller",Cloud,Tier 2/3,55,Bosnia and Herzegovina
+38,V0020,1,Hall Group,Manufacturing,Tier 1,87,Italy
+38,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+38,V0091,1,"Roberts, Roberts and Morales",Healthcare,Tier 2/3,31,Western Sahara
+38,V0129,1,Henderson and Sons,Logistics,Tier 2/3,74,Marshall Islands
+38,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+38,V0145,1,"Mason, Duran and Torres",Manufacturing,Tier 1,91,Puerto Rico
+38,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+38,V0165,1,Wright PLC,Manufacturing,Tier 2/3,45,Malta
+38,V0168,1,Brown LLC,Healthcare,Tier 1,89,Bolivia
+38,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+39,V0071,1,"Davis, Marsh and Lee",Finance,Tier 2/3,79,Ethiopia
+39,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+40,V0013,1,Peck-Myers,Logistics,Tier 2/3,47,Chad
+40,V0020,1,Hall Group,Manufacturing,Tier 1,87,Italy
+40,V0051,1,"Cannon, Jacobson and Glenn",Cloud,Tier 2/3,51,Kyrgyz Republic
+40,V0071,1,"Davis, Marsh and Lee",Finance,Tier 2/3,79,Ethiopia
+40,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+40,V0134,1,Hill-Lindsey,Manufacturing,Tier 2/3,46,Timor-Leste
+40,V0189,1,Harris LLC,Cloud,Tier 2/3,53,Maldives
+41,V0014,1,Reed Inc,Finance,Tier 2/3,59,Malaysia
+41,V0060,1,"Nunez, Chambers and Montes",Cloud,Tier 2/3,75,Indonesia
+41,V0150,1,"Lopez, Carroll and Huang",Manufacturing,Tier 1,96,Saint Pierre and Miquelon
+41,V0186,1,"Romero, Cooley and Cisneros",Cloud,Tier 2/3,72,Fiji
+41,V0194,1,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy
+41,V0195,1,"Williams, Spears and Wolfe",Defense,Tier 2/3,80,Timor-Leste
+42,V0004,1,"Mccullough, Patel and Pennington",Cloud,Tier 2/3,45,Vietnam
+42,V0007,1,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles
+42,V0106,1,"Smith, Rodriguez and Fuller",Cloud,Tier 2/3,55,Bosnia and Herzegovina
+42,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+43,V0048,1,Smith Ltd,Finance,Tier 2/3,38,Vietnam
+43,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+43,V0170,1,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico
+44,V0041,1,Mitchell Inc,Cloud,Tier 2/3,56,France
+44,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+44,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+44,V0073,1,Rodriguez and Sons,Logistics,Tier 2/3,60,Falkland Islands (Malvinas)
+44,V0084,1,Jordan Ltd,Cloud,Tier 2/3,73,Paraguay
+44,V0085,1,"Rodriguez, Gomez and Anderson",Logistics,Tier 2/3,72,Chad
+44,V0101,1,"Rowland, Johnson and Owens",Defense,Tier 2/3,73,Germany
+44,V0102,1,Simmons-Lucas,Defense,Tier 2/3,30,Bhutan
+44,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+44,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+44,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+44,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+45,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+45,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+45,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+46,V0016,1,Adams PLC,Logistics,Tier 2/3,39,Georgia
+46,V0039,1,Weaver Ltd,Finance,Tier 2/3,51,Greece
+46,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+46,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+46,V0084,1,Jordan Ltd,Cloud,Tier 2/3,73,Paraguay
+46,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+46,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+47,V0068,1,"Cole, Hernandez and George",Healthcare,Tier 2/3,41,Yemen
+47,V0089,1,"Parker, Mora and Woods",Healthcare,Tier 2/3,66,British Virgin Islands
+47,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+47,V0119,1,Lewis-Richards,Manufacturing,Tier 2/3,64,Azerbaijan
+47,V0131,1,"Perez, Beard and Larson",Defense,Tier 2/3,59,Slovakia (Slovak Republic)
+47,V0194,1,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy
+47,V0200,1,"Roberts, Anderson and Snyder",Logistics,Tier 2/3,51,Finland
+48,V0019,1,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles
+49,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+49,V0092,1,Elliott-Wells,Healthcare,Tier 2/3,60,South Africa
+49,V0115,1,"Smith, Henderson and Santos",Healthcare,Tier 2/3,31,Turks and Caicos Islands
+49,V0120,1,"Guerrero, Diaz and Hinton",Finance,Tier 1,86,Korea
+49,V0178,1,Brown-Jones,Cloud,Tier 1,85,Sri Lanka
+49,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+50,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+50,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+50,V0076,1,Cruz LLC,Logistics,Tier 2/3,69,Guatemala
+50,V0109,1,Harvey-Dyer,Cloud,Tier 2/3,37,Tokelau
+50,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+50,V0132,1,Lester-Miller,Manufacturing,Tier 2/3,55,Poland
+50,V0156,1,Larsen-Johnson,Logistics,Tier 2/3,43,Cameroon
+50,V0157,1,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa
+50,V0195,1,"Williams, Spears and Wolfe",Defense,Tier 2/3,80,Timor-Leste
+51,V0053,1,Underwood-Baldwin,Cloud,Tier 2/3,72,Uruguay
+51,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+51,V0099,1,Phillips Ltd,Logistics,Tier 1,93,Cambodia
+51,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+51,V0122,1,Rodriguez PLC,Defense,Tier 2/3,76,Afghanistan
+51,V0125,1,Ramirez-Parrish,Cloud,Tier 2/3,67,Brazil
+52,V0005,1,Weiss Inc,Finance,Tier 2/3,40,Kazakhstan
+52,V0043,1,Hamilton and Sons,Healthcare,Tier 1,89,Western Sahara
+52,V0067,1,Parker-Mckay,Manufacturing,Tier 2/3,63,Yemen
+52,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+52,V0198,1,West Group,Manufacturing,Tier 1,99,Isle of Man
+53,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+53,V0012,1,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana
+53,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+53,V0021,1,Jenkins-Sanders,Cloud,Tier 2/3,76,Belarus
+53,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+53,V0069,1,Franco-Johnson,Manufacturing,Tier 2/3,34,Gabon
+53,V0105,1,Lane-Anderson,Defense,Tier 2/3,59,United Arab Emirates
+53,V0120,1,"Guerrero, Diaz and Hinton",Finance,Tier 1,86,Korea
+54,V0013,1,Peck-Myers,Logistics,Tier 2/3,47,Chad
+54,V0078,1,Lowery-Cummings,Logistics,Tier 2/3,47,Finland
+54,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+54,V0158,1,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America
+54,V0174,1,"Wilson, Jackson and Smith",Defense,Tier 1,91,Vanuatu
+55,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+55,V0050,1,Stephenson LLC,Manufacturing,Tier 2/3,64,Tuvalu
+55,V0098,1,Owens-Gonzales,Manufacturing,Tier 2/3,68,Marshall Islands
+55,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+55,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+55,V0144,1,Peterson and Sons,Manufacturing,Tier 2/3,49,Montserrat
+55,V0149,1,Santiago Group,Finance,Tier 2/3,73,United States of America
+55,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+55,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+55,V0177,1,"Ochoa, Brewer and Simmons",Logistics,Tier 2/3,49,Taiwan
+56,V0012,1,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana
+56,V0049,1,"Dixon, Hines and Grant",Logistics,Tier 1,84,Tajikistan
+56,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+56,V0121,1,"Vargas, Wilson and Bowman",Cloud,Tier 2/3,40,Guam
+56,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+57,V0023,1,Oconnor Group,Healthcare,Tier 1,91,Barbados
+57,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+57,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+57,V0147,1,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico
+58,V0007,1,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles
+58,V0023,1,Oconnor Group,Healthcare,Tier 1,91,Barbados
+58,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+58,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+58,V0146,1,"Kim, Schmidt and Hopkins",Manufacturing,Tier 2/3,36,Gabon
+58,V0157,1,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa
+59,V0085,1,"Rodriguez, Gomez and Anderson",Logistics,Tier 2/3,72,Chad
+59,V0097,1,Williams-Gonzales,Cloud,Tier 2/3,64,Luxembourg
+59,V0150,1,"Lopez, Carroll and Huang",Manufacturing,Tier 1,96,Saint Pierre and Miquelon
+59,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+59,V0188,1,"Medina, Smith and Hernandez",Defense,Tier 2/3,42,Monaco
+59,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+60,V0019,1,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles
+60,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+60,V0110,1,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia
+60,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+60,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+60,V0185,1,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue
+61,V0131,1,"Perez, Beard and Larson",Defense,Tier 2/3,59,Slovakia (Slovak Republic)
+61,V0144,1,Peterson and Sons,Manufacturing,Tier 2/3,49,Montserrat
+61,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+61,V0174,1,"Wilson, Jackson and Smith",Defense,Tier 1,91,Vanuatu
+62,V0025,1,Davis-Ochoa,Logistics,Tier 1,80,Georgia
+62,V0046,1,"Porter, Morris and Craig",Finance,Tier 2/3,56,Czech Republic
+62,V0065,1,"Zuniga, Harris and Gomez",Manufacturing,Tier 2/3,46,Fiji
+62,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+62,V0194,1,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy
+63,V0039,1,Weaver Ltd,Finance,Tier 2/3,51,Greece
+63,V0042,1,Roberts-Fowler,Cloud,Tier 2/3,73,Argentina
+63,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+63,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+63,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+63,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+64,V0040,1,Gallagher LLC,Healthcare,Tier 2/3,35,Cayman Islands
+64,V0055,1,"Robinson, Richardson and Brown",Manufacturing,Tier 2/3,70,Macao
+64,V0165,1,Wright PLC,Manufacturing,Tier 2/3,45,Malta
+64,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+65,V0092,1,Elliott-Wells,Healthcare,Tier 2/3,60,South Africa
+65,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+65,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+65,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+65,V0171,1,Payne-Morris,Healthcare,Tier 2/3,33,Saint Martin
+65,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+66,V0037,1,"Little, Clark and Yoder",Healthcare,Tier 2/3,70,Aruba
+66,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+66,V0110,1,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia
+66,V0114,1,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan
+66,V0122,1,Rodriguez PLC,Defense,Tier 2/3,76,Afghanistan
+67,V0036,1,Gilmore PLC,Manufacturing,Tier 2/3,61,Somalia
+67,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+67,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+68,V0002,1,Floyd PLC,Manufacturing,Tier 2/3,59,French Southern Territories
+68,V0007,1,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles
+68,V0025,1,Davis-Ochoa,Logistics,Tier 1,80,Georgia
+68,V0041,1,Mitchell Inc,Cloud,Tier 2/3,56,France
+68,V0052,1,Lee and Sons,Finance,Tier 2/3,35,Canada
+68,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+68,V0060,1,"Nunez, Chambers and Montes",Cloud,Tier 2/3,75,Indonesia
+68,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+68,V0093,1,Vasquez-Hernandez,Logistics,Tier 2/3,58,Liberia
+68,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+68,V0119,1,Lewis-Richards,Manufacturing,Tier 2/3,64,Azerbaijan
+68,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+68,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+69,V0022,1,Perez Inc,Manufacturing,Tier 2/3,59,Andorra
+69,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+69,V0105,1,Lane-Anderson,Defense,Tier 2/3,59,United Arab Emirates
+69,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+69,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+69,V0167,1,Cole PLC,Logistics,Tier 2/3,71,Iceland
+70,V0007,1,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles
+70,V0019,1,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles
+70,V0066,1,"Williams, Estrada and David",Logistics,Tier 1,100,Mozambique
+70,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+70,V0133,1,Brown-Lewis,Cloud,Tier 2/3,37,Canada
+70,V0193,1,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe
+71,V0034,1,Montgomery-Cooper,Cloud,Tier 2/3,73,Iraq
+71,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+71,V0189,1,Harris LLC,Cloud,Tier 2/3,53,Maldives
+72,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+72,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+72,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+72,V0095,1,Pollard-Taylor,Defense,Tier 2/3,44,Bolivia
+72,V0096,1,Lindsey LLC,Cloud,Tier 2/3,49,Kenya
+73,V0007,1,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles
+73,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+73,V0068,1,"Cole, Hernandez and George",Healthcare,Tier 2/3,41,Yemen
+73,V0108,1,Barker-Vaughn,Manufacturing,Tier 2/3,47,Indonesia
+73,V0115,1,"Smith, Henderson and Santos",Healthcare,Tier 2/3,31,Turks and Caicos Islands
+73,V0127,1,Compton-Smith,Defense,Tier 2/3,57,Eritrea
+73,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+73,V0146,1,"Kim, Schmidt and Hopkins",Manufacturing,Tier 2/3,36,Gabon
+73,V0160,1,Brock LLC,Healthcare,Tier 2/3,47,Guatemala
+73,V0184,1,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic
+74,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+74,V0015,1,"Robinson, Gonzalez and Jarvis",Manufacturing,Tier 2/3,46,Panama
+74,V0038,1,"Phillips, Green and Shelton",Finance,Tier 2/3,63,Dominica
+74,V0049,1,"Dixon, Hines and Grant",Logistics,Tier 1,84,Tajikistan
+74,V0073,1,Rodriguez and Sons,Logistics,Tier 2/3,60,Falkland Islands (Malvinas)
+74,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+74,V0184,1,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic
+75,V0148,1,Johnson-Fox,Healthcare,Tier 2/3,79,Croatia
+75,V0170,1,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico
+75,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+75,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+76,V0133,1,Brown-Lewis,Cloud,Tier 2/3,37,Canada
+76,V0151,1,Phillips and Sons,Logistics,Tier 2/3,57,Trinidad and Tobago
+76,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+76,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+77,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+77,V0013,1,Peck-Myers,Logistics,Tier 2/3,47,Chad
+77,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+77,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+77,V0072,1,"Evans, Schroeder and Marshall",Logistics,Tier 2/3,74,Morocco
+77,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+77,V0114,1,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan
+77,V0157,1,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa
+78,V0087,1,Hutchinson-Pineda,Defense,Tier 2/3,80,Isle of Man
+78,V0102,1,Simmons-Lucas,Defense,Tier 2/3,30,Bhutan
+78,V0155,1,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria
+78,V0164,1,"Juarez, Kaiser and Gardner",Finance,Tier 2/3,80,Bangladesh
+78,V0173,1,Ruiz-Adams,Cloud,Tier 2/3,50,Slovenia
+78,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+78,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+78,V0193,1,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe
+79,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+79,V0045,1,Sims PLC,Finance,Tier 2/3,51,Kiribati
+79,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+79,V0061,1,Bennett LLC,Manufacturing,Tier 2/3,50,Uruguay
+79,V0076,1,Cruz LLC,Logistics,Tier 2/3,69,Guatemala
+79,V0110,1,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia
+79,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+80,V0037,1,"Little, Clark and Yoder",Healthcare,Tier 2/3,70,Aruba
+80,V0044,1,"Medina, Curtis and Garza",Cloud,Tier 2/3,45,Saint Barthelemy
+80,V0052,1,Lee and Sons,Finance,Tier 2/3,35,Canada
+80,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+80,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+80,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+81,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+81,V0037,1,"Little, Clark and Yoder",Healthcare,Tier 2/3,70,Aruba
+81,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+81,V0069,1,Franco-Johnson,Manufacturing,Tier 2/3,34,Gabon
+81,V0110,1,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia
+81,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+81,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+81,V0185,1,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue
+82,V0009,1,"Hart, Green and Garza",Defense,Tier 2/3,46,Tonga
+82,V0021,1,Jenkins-Sanders,Cloud,Tier 2/3,76,Belarus
+82,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+82,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+82,V0151,1,Phillips and Sons,Logistics,Tier 2/3,57,Trinidad and Tobago
+83,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+83,V0106,1,"Smith, Rodriguez and Fuller",Cloud,Tier 2/3,55,Bosnia and Herzegovina
+83,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+83,V0141,1,Harris Group,Healthcare,Tier 2/3,34,Thailand
+83,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+83,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+83,V0165,1,Wright PLC,Manufacturing,Tier 2/3,45,Malta
+84,V0042,1,Roberts-Fowler,Cloud,Tier 2/3,73,Argentina
+84,V0136,1,Payne-Lambert,Cloud,Tier 2/3,80,Japan
+84,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+85,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+85,V0081,1,"Garcia, Thomas and Moore",Logistics,Tier 2/3,76,Bahamas
+85,V0107,1,Gutierrez Ltd,Cloud,Tier 2/3,50,Japan
+85,V0161,1,Miller-Romero,Logistics,Tier 2/3,69,Taiwan
+85,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+86,V0024,1,"Leonard, Barber and Trujillo",Manufacturing,Tier 2/3,37,Spain
+86,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+86,V0072,1,"Evans, Schroeder and Marshall",Logistics,Tier 2/3,74,Morocco
+86,V0079,1,Nelson-Hood,Finance,Tier 2/3,75,Oman
+86,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+86,V0137,1,"Daniel, Ford and Green",Manufacturing,Tier 2/3,31,Congo
+86,V0155,1,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria
+86,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+87,V0025,1,Davis-Ochoa,Logistics,Tier 1,80,Georgia
+87,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+87,V0164,1,"Juarez, Kaiser and Gardner",Finance,Tier 2/3,80,Bangladesh
+88,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+88,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+88,V0145,1,"Mason, Duran and Torres",Manufacturing,Tier 1,91,Puerto Rico
+88,V0158,1,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America
+88,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+88,V0193,1,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe
+88,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+88,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+89,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+89,V0102,1,Simmons-Lucas,Defense,Tier 2/3,30,Bhutan
+90,V0122,1,Rodriguez PLC,Defense,Tier 2/3,76,Afghanistan
+90,V0127,1,Compton-Smith,Defense,Tier 2/3,57,Eritrea
+90,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+90,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+90,V0141,1,Harris Group,Healthcare,Tier 2/3,34,Thailand
+90,V0148,1,Johnson-Fox,Healthcare,Tier 2/3,79,Croatia
+90,V0195,1,"Williams, Spears and Wolfe",Defense,Tier 2/3,80,Timor-Leste
+91,V0023,1,Oconnor Group,Healthcare,Tier 1,91,Barbados
+91,V0093,1,Vasquez-Hernandez,Logistics,Tier 2/3,58,Liberia
+91,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+91,V0161,1,Miller-Romero,Logistics,Tier 2/3,69,Taiwan
+91,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+91,V0169,1,Taylor Group,Finance,Tier 1,95,Russian Federation
+91,V0177,1,"Ochoa, Brewer and Simmons",Logistics,Tier 2/3,49,Taiwan
+92,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+92,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+92,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+92,V0167,1,Cole PLC,Logistics,Tier 2/3,71,Iceland
+93,V0015,1,"Robinson, Gonzalez and Jarvis",Manufacturing,Tier 2/3,46,Panama
+93,V0038,1,"Phillips, Green and Shelton",Finance,Tier 2/3,63,Dominica
+93,V0065,1,"Zuniga, Harris and Gomez",Manufacturing,Tier 2/3,46,Fiji
+93,V0146,1,"Kim, Schmidt and Hopkins",Manufacturing,Tier 2/3,36,Gabon
+93,V0167,1,Cole PLC,Logistics,Tier 2/3,71,Iceland
+93,V0184,1,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic
+94,V0006,1,"Wright, Mendez and Castro",Cloud,Tier 1,85,Togo
+94,V0018,1,Duran-Trevino,Finance,Tier 2/3,62,American Samoa
+94,V0119,1,Lewis-Richards,Manufacturing,Tier 2/3,64,Azerbaijan
+94,V0131,1,"Perez, Beard and Larson",Defense,Tier 2/3,59,Slovakia (Slovak Republic)
+94,V0147,1,"Pearson, Thomas and Smith",Defense,Tier 2/3,68,Puerto Rico
+94,V0165,1,Wright PLC,Manufacturing,Tier 2/3,45,Malta
+95,V0013,1,Peck-Myers,Logistics,Tier 2/3,47,Chad
+95,V0048,1,Smith Ltd,Finance,Tier 2/3,38,Vietnam
+95,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+95,V0149,1,Santiago Group,Finance,Tier 2/3,73,United States of America
+95,V0199,1,"Gould, Gilbert and Burton",Cloud,Tier 2/3,35,French Polynesia
+96,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+96,V0039,1,Weaver Ltd,Finance,Tier 2/3,51,Greece
+96,V0049,1,"Dixon, Hines and Grant",Logistics,Tier 1,84,Tajikistan
+96,V0157,1,Chapman-Townsend,Manufacturing,Tier 1,82,American Samoa
+96,V0162,1,"Dawson, Aguilar and Lopez",Logistics,Tier 1,80,Myanmar
+96,V0173,1,Ruiz-Adams,Cloud,Tier 2/3,50,Slovenia
+97,V0012,1,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana
+97,V0069,1,Franco-Johnson,Manufacturing,Tier 2/3,34,Gabon
+97,V0134,1,Hill-Lindsey,Manufacturing,Tier 2/3,46,Timor-Leste
+97,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+98,V0051,1,"Cannon, Jacobson and Glenn",Cloud,Tier 2/3,51,Kyrgyz Republic
+98,V0111,1,West and Sons,Finance,Tier 2/3,66,Cambodia
+99,V0032,1,"Gates, Smith and Smith",Cloud,Tier 2/3,46,Sierra Leone
+100,V0001,1,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe
+100,V0036,1,Gilmore PLC,Manufacturing,Tier 2/3,61,Somalia
+100,V0066,1,"Williams, Estrada and David",Logistics,Tier 1,100,Mozambique
+100,V0149,1,Santiago Group,Finance,Tier 2/3,73,United States of America
+101,V0052,1,Lee and Sons,Finance,Tier 2/3,35,Canada
+102,V0067,1,Parker-Mckay,Manufacturing,Tier 2/3,63,Yemen
+102,V0068,1,"Cole, Hernandez and George",Healthcare,Tier 2/3,41,Yemen
+102,V0100,1,Bishop PLC,Cloud,Tier 2/3,37,Fiji
+102,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+102,V0189,1,Harris LLC,Cloud,Tier 2/3,53,Maldives
+103,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+103,V0015,1,"Robinson, Gonzalez and Jarvis",Manufacturing,Tier 2/3,46,Panama
+103,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+103,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+104,V0005,1,Weiss Inc,Finance,Tier 2/3,40,Kazakhstan
+104,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+104,V0073,1,Rodriguez and Sons,Logistics,Tier 2/3,60,Falkland Islands (Malvinas)
+104,V0087,1,Hutchinson-Pineda,Defense,Tier 2/3,80,Isle of Man
+104,V0100,1,Bishop PLC,Cloud,Tier 2/3,37,Fiji
+104,V0116,1,Martinez LLC,Manufacturing,Tier 1,83,Colombia
+104,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+104,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+105,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+105,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+105,V0094,1,"Velez, Jackson and Martin",Logistics,Tier 1,99,Jamaica
+105,V0112,1,Alvarado-Mann,Finance,Tier 2/3,77,Albania
+105,V0125,1,Ramirez-Parrish,Cloud,Tier 2/3,67,Brazil
+105,V0184,1,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic
+106,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+106,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+107,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+107,V0160,1,Brock LLC,Healthcare,Tier 2/3,47,Guatemala
+108,V0029,1,Young-Miller,Healthcare,Tier 2/3,75,Dominica
+108,V0065,1,"Zuniga, Harris and Gomez",Manufacturing,Tier 2/3,46,Fiji
+108,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+108,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+108,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+108,V0185,1,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue
+109,V0053,1,Underwood-Baldwin,Cloud,Tier 2/3,72,Uruguay
+109,V0068,1,"Cole, Hernandez and George",Healthcare,Tier 2/3,41,Yemen
+109,V0079,1,Nelson-Hood,Finance,Tier 2/3,75,Oman
+109,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+109,V0155,1,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria
+109,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+110,V0006,1,"Wright, Mendez and Castro",Cloud,Tier 1,85,Togo
+110,V0025,1,Davis-Ochoa,Logistics,Tier 1,80,Georgia
+110,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+110,V0079,1,Nelson-Hood,Finance,Tier 2/3,75,Oman
+110,V0159,1,"Collins, Rodriguez and Cole",Finance,Tier 2/3,36,Syrian Arab Republic
+111,V0034,1,Montgomery-Cooper,Cloud,Tier 2/3,73,Iraq
+111,V0083,1,Kim-Roberts,Finance,Tier 1,95,Myanmar
+111,V0108,1,Barker-Vaughn,Manufacturing,Tier 2/3,47,Indonesia
+111,V0109,1,Harvey-Dyer,Cloud,Tier 2/3,37,Tokelau
+111,V0141,1,Harris Group,Healthcare,Tier 2/3,34,Thailand
+112,V0024,1,"Leonard, Barber and Trujillo",Manufacturing,Tier 2/3,37,Spain
+112,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+112,V0062,1,Schroeder-Mcmahon,Finance,Tier 2/3,72,Isle of Man
+112,V0114,1,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan
+113,V0028,1,Petersen Ltd,Cloud,Tier 2/3,68,Libyan Arab Jamahiriya
+113,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+113,V0158,1,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America
+113,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+113,V0194,1,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy
+113,V0199,1,"Gould, Gilbert and Burton",Cloud,Tier 2/3,35,French Polynesia
+114,V0032,1,"Gates, Smith and Smith",Cloud,Tier 2/3,46,Sierra Leone
+114,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+114,V0131,1,"Perez, Beard and Larson",Defense,Tier 2/3,59,Slovakia (Slovak Republic)
+114,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+115,V0016,1,Adams PLC,Logistics,Tier 2/3,39,Georgia
+115,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+115,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+115,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+115,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+115,V0199,1,"Gould, Gilbert and Burton",Cloud,Tier 2/3,35,French Polynesia
+116,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+116,V0015,1,"Robinson, Gonzalez and Jarvis",Manufacturing,Tier 2/3,46,Panama
+116,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+116,V0032,1,"Gates, Smith and Smith",Cloud,Tier 2/3,46,Sierra Leone
+116,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+116,V0101,1,"Rowland, Johnson and Owens",Defense,Tier 2/3,73,Germany
+116,V0112,1,Alvarado-Mann,Finance,Tier 2/3,77,Albania
+116,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+116,V0136,1,Payne-Lambert,Cloud,Tier 2/3,80,Japan
+116,V0156,1,Larsen-Johnson,Logistics,Tier 2/3,43,Cameroon
+116,V0168,1,Brown LLC,Healthcare,Tier 1,89,Bolivia
+116,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+116,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+117,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+117,V0005,1,Weiss Inc,Finance,Tier 2/3,40,Kazakhstan
+118,V0040,1,Gallagher LLC,Healthcare,Tier 2/3,35,Cayman Islands
+118,V0079,1,Nelson-Hood,Finance,Tier 2/3,75,Oman
+118,V0084,1,Jordan Ltd,Cloud,Tier 2/3,73,Paraguay
+118,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+118,V0116,1,Martinez LLC,Manufacturing,Tier 1,83,Colombia
+118,V0139,1,Wilson-Conley,Finance,Tier 2/3,51,Turks and Caicos Islands
+119,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+119,V0109,1,Harvey-Dyer,Cloud,Tier 2/3,37,Tokelau
+119,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+119,V0148,1,Johnson-Fox,Healthcare,Tier 2/3,79,Croatia
+119,V0172,1,Price LLC,Defense,Tier 2/3,47,Barbados
+120,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+120,V0085,1,"Rodriguez, Gomez and Anderson",Logistics,Tier 2/3,72,Chad
+120,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+121,V0014,1,Reed Inc,Finance,Tier 2/3,59,Malaysia
+121,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+121,V0176,1,Morrison PLC,Finance,Tier 2/3,45,Burkina Faso
+122,V0020,1,Hall Group,Manufacturing,Tier 1,87,Italy
+122,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+122,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+123,V0026,1,Hansen-Bautista,Cloud,Tier 2/3,74,El Salvador
+123,V0075,1,Gonzales-Owens,Finance,Tier 2/3,49,Chile
+123,V0185,1,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue
+123,V0193,1,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe
+124,V0062,1,Schroeder-Mcmahon,Finance,Tier 2/3,72,Isle of Man
+124,V0134,1,Hill-Lindsey,Manufacturing,Tier 2/3,46,Timor-Leste
+124,V0146,1,"Kim, Schmidt and Hopkins",Manufacturing,Tier 2/3,36,Gabon
+124,V0172,1,Price LLC,Defense,Tier 2/3,47,Barbados
+125,V0008,1,"Smith, Hendrix and Mejia",Logistics,Tier 1,83,China
+125,V0107,1,Gutierrez Ltd,Cloud,Tier 2/3,50,Japan
+125,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+125,V0168,1,Brown LLC,Healthcare,Tier 1,89,Bolivia
+125,V0178,1,Brown-Jones,Cloud,Tier 1,85,Sri Lanka
+126,V0026,1,Hansen-Bautista,Cloud,Tier 2/3,74,El Salvador
+126,V0062,1,Schroeder-Mcmahon,Finance,Tier 2/3,72,Isle of Man
+126,V0086,1,Mitchell-Gonzalez,Manufacturing,Tier 2/3,34,Kenya
+126,V0097,1,Williams-Gonzales,Cloud,Tier 2/3,64,Luxembourg
+126,V0118,1,"Carroll, Thomas and Todd",Defense,Tier 2/3,76,Holy See (Vatican City State)
+126,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+127,V0076,1,Cruz LLC,Logistics,Tier 2/3,69,Guatemala
+127,V0082,1,Lopez-Norris,Manufacturing,Tier 2/3,48,Seychelles
+127,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+127,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+127,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+128,V0111,1,West and Sons,Finance,Tier 2/3,66,Cambodia
+128,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+128,V0145,1,"Mason, Duran and Torres",Manufacturing,Tier 1,91,Puerto Rico
+129,V0097,1,Williams-Gonzales,Cloud,Tier 2/3,64,Luxembourg
+129,V0155,1,"Smith, Solomon and White",Manufacturing,Tier 1,98,Algeria
+130,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+130,V0071,1,"Davis, Marsh and Lee",Finance,Tier 2/3,79,Ethiopia
+130,V0144,1,Peterson and Sons,Manufacturing,Tier 2/3,49,Montserrat
+131,V0036,1,Gilmore PLC,Manufacturing,Tier 2/3,61,Somalia
+131,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+131,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+131,V0190,1,Johnson and Sons,Manufacturing,Tier 2/3,31,Mayotte
+132,V0079,1,Nelson-Hood,Finance,Tier 2/3,75,Oman
+132,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+132,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+133,V0019,1,"Smith, Willis and Thomas",Manufacturing,Tier 2/3,60,Netherlands Antilles
+133,V0134,1,Hill-Lindsey,Manufacturing,Tier 2/3,46,Timor-Leste
+133,V0150,1,"Lopez, Carroll and Huang",Manufacturing,Tier 1,96,Saint Pierre and Miquelon
+133,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+134,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+134,V0096,1,Lindsey LLC,Cloud,Tier 2/3,49,Kenya
+134,V0120,1,"Guerrero, Diaz and Hinton",Finance,Tier 1,86,Korea
+134,V0122,1,Rodriguez PLC,Defense,Tier 2/3,76,Afghanistan
+134,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+135,V0012,1,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana
+135,V0079,1,Nelson-Hood,Finance,Tier 2/3,75,Oman
+135,V0120,1,"Guerrero, Diaz and Hinton",Finance,Tier 1,86,Korea
+135,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+135,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+135,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+136,V0101,1,"Rowland, Johnson and Owens",Defense,Tier 2/3,73,Germany
+136,V0107,1,Gutierrez Ltd,Cloud,Tier 2/3,50,Japan
+136,V0114,1,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan
+136,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+137,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+137,V0111,1,West and Sons,Finance,Tier 2/3,66,Cambodia
+137,V0119,1,Lewis-Richards,Manufacturing,Tier 2/3,64,Azerbaijan
+137,V0128,1,Fuller PLC,Finance,Tier 1,84,Portugal
+137,V0129,1,Henderson and Sons,Logistics,Tier 2/3,74,Marshall Islands
+138,V0139,1,Wilson-Conley,Finance,Tier 2/3,51,Turks and Caicos Islands
+139,V0024,1,"Leonard, Barber and Trujillo",Manufacturing,Tier 2/3,37,Spain
+139,V0040,1,Gallagher LLC,Healthcare,Tier 2/3,35,Cayman Islands
+139,V0071,1,"Davis, Marsh and Lee",Finance,Tier 2/3,79,Ethiopia
+139,V0100,1,Bishop PLC,Cloud,Tier 2/3,37,Fiji
+139,V0170,1,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico
+139,V0193,1,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe
+140,V0036,1,Gilmore PLC,Manufacturing,Tier 2/3,61,Somalia
+140,V0076,1,Cruz LLC,Logistics,Tier 2/3,69,Guatemala
+140,V0127,1,Compton-Smith,Defense,Tier 2/3,57,Eritrea
+140,V0166,1,Miles Ltd,Manufacturing,Tier 1,87,Azerbaijan
+140,V0174,1,"Wilson, Jackson and Smith",Defense,Tier 1,91,Vanuatu
+141,V0001,1,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe
+141,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+141,V0078,1,Lowery-Cummings,Logistics,Tier 2/3,47,Finland
+141,V0113,1,Green-Thomas,Manufacturing,Tier 1,90,San Marino
+141,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+141,V0171,1,Payne-Morris,Healthcare,Tier 2/3,33,Saint Martin
+142,V0023,1,Oconnor Group,Healthcare,Tier 1,91,Barbados
+142,V0104,1,Smith-Johnson,Healthcare,Tier 2/3,51,Sri Lanka
+142,V0109,1,Harvey-Dyer,Cloud,Tier 2/3,37,Tokelau
+142,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+143,V0015,1,"Robinson, Gonzalez and Jarvis",Manufacturing,Tier 2/3,46,Panama
+143,V0059,1,Paul Ltd,Healthcare,Tier 1,96,Monaco
+143,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+143,V0076,1,Cruz LLC,Logistics,Tier 2/3,69,Guatemala
+143,V0141,1,Harris Group,Healthcare,Tier 2/3,34,Thailand
+144,V0012,1,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana
+144,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+144,V0174,1,"Wilson, Jackson and Smith",Defense,Tier 1,91,Vanuatu
+144,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+144,V0197,1,Brown-Anthony,Finance,Tier 2/3,49,Latvia
+145,V0007,1,Green PLC,Healthcare,Tier 2/3,47,Netherlands Antilles
+145,V0030,1,"Franklin, Smith and Delacruz",Manufacturing,Tier 2/3,32,Lao People's Democratic Republic
+145,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+145,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+145,V0100,1,Bishop PLC,Cloud,Tier 2/3,37,Fiji
+145,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+146,V0099,1,Phillips Ltd,Logistics,Tier 1,93,Cambodia
+146,V0104,1,Smith-Johnson,Healthcare,Tier 2/3,51,Sri Lanka
+146,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+146,V0179,1,Jones-Haynes,Finance,Tier 2/3,62,Sierra Leone
+146,V0198,1,West Group,Manufacturing,Tier 1,99,Isle of Man
+147,V0184,1,"Zhang, Sawyer and Sanchez",Finance,Tier 1,92,Central African Republic
+148,V0027,1,Roth-Faulkner,Cloud,Tier 2/3,53,Timor-Leste
+148,V0051,1,"Cannon, Jacobson and Glenn",Cloud,Tier 2/3,51,Kyrgyz Republic
+148,V0085,1,"Rodriguez, Gomez and Anderson",Logistics,Tier 2/3,72,Chad
+148,V0151,1,Phillips and Sons,Logistics,Tier 2/3,57,Trinidad and Tobago
+148,V0152,1,Wilson Inc,Logistics,Tier 2/3,45,Jersey
+148,V0194,1,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy
+149,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+149,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+149,V0096,1,Lindsey LLC,Cloud,Tier 2/3,49,Kenya
+149,V0102,1,Simmons-Lucas,Defense,Tier 2/3,30,Bhutan
+149,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+149,V0177,1,"Ochoa, Brewer and Simmons",Logistics,Tier 2/3,49,Taiwan
+149,V0195,1,"Williams, Spears and Wolfe",Defense,Tier 2/3,80,Timor-Leste
+150,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+150,V0013,1,Peck-Myers,Logistics,Tier 2/3,47,Chad
+150,V0031,1,Nguyen Inc,Healthcare,Tier 2/3,73,Svalbard & Jan Mayen Islands
+150,V0120,1,"Guerrero, Diaz and Hinton",Finance,Tier 1,86,Korea
+150,V0127,1,Compton-Smith,Defense,Tier 2/3,57,Eritrea
+150,V0141,1,Harris Group,Healthcare,Tier 2/3,34,Thailand
+150,V0190,1,Johnson and Sons,Manufacturing,Tier 2/3,31,Mayotte
+151,V0025,1,Davis-Ochoa,Logistics,Tier 1,80,Georgia
+151,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+151,V0164,1,"Juarez, Kaiser and Gardner",Finance,Tier 2/3,80,Bangladesh
+151,V0180,1,Welch LLC,Finance,Tier 2/3,46,Brazil
+152,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+152,V0023,1,Oconnor Group,Healthcare,Tier 1,91,Barbados
+152,V0169,1,Taylor Group,Finance,Tier 1,95,Russian Federation
+152,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+152,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+153,V0043,1,Hamilton and Sons,Healthcare,Tier 1,89,Western Sahara
+153,V0063,1,Owens-Garcia,Finance,Tier 2/3,37,Guyana
+153,V0150,1,"Lopez, Carroll and Huang",Manufacturing,Tier 1,96,Saint Pierre and Miquelon
+153,V0175,1,Wilson-Tucker,Finance,Tier 1,94,Philippines
+154,V0035,1,"Green, Guzman and Kelly",Logistics,Tier 1,97,Turkey
+155,V0063,1,Owens-Garcia,Finance,Tier 2/3,37,Guyana
+155,V0077,1,Smith-Becker,Manufacturing,Tier 2/3,39,Marshall Islands
+155,V0089,1,"Parker, Mora and Woods",Healthcare,Tier 2/3,66,British Virgin Islands
+155,V0098,1,Owens-Gonzales,Manufacturing,Tier 2/3,68,Marshall Islands
+155,V0102,1,Simmons-Lucas,Defense,Tier 2/3,30,Bhutan
+155,V0185,1,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue
+155,V0194,1,George-Peterson,Healthcare,Tier 1,99,Saint Barthelemy
+156,V0014,1,Reed Inc,Finance,Tier 2/3,59,Malaysia
+156,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+156,V0149,1,Santiago Group,Finance,Tier 2/3,73,United States of America
+156,V0171,1,Payne-Morris,Healthcare,Tier 2/3,33,Saint Martin
+157,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+157,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+157,V0065,1,"Zuniga, Harris and Gomez",Manufacturing,Tier 2/3,46,Fiji
+157,V0116,1,Martinez LLC,Manufacturing,Tier 1,83,Colombia
+157,V0138,1,"Peters, Martinez and Clark",Logistics,Tier 2/3,68,Cape Verde
+157,V0161,1,Miller-Romero,Logistics,Tier 2/3,69,Taiwan
+157,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+158,V0017,1,George-Grimes,Logistics,Tier 1,93,Jamaica
+158,V0078,1,Lowery-Cummings,Logistics,Tier 2/3,47,Finland
+158,V0110,1,"Cook, Fernandez and Sherman",Healthcare,Tier 2/3,50,Saudi Arabia
+159,V0093,1,Vasquez-Hernandez,Logistics,Tier 2/3,58,Liberia
+159,V0118,1,"Carroll, Thomas and Todd",Defense,Tier 2/3,76,Holy See (Vatican City State)
+159,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+160,V0136,1,Payne-Lambert,Cloud,Tier 2/3,80,Japan
+160,V0163,1,Henry-Duncan,Defense,Tier 1,97,Netherlands Antilles
+160,V0181,1,"Campbell, James and Zavala",Cloud,Tier 2/3,47,Equatorial Guinea
+161,V0039,1,Weaver Ltd,Finance,Tier 2/3,51,Greece
+161,V0126,1,Morgan-Terrell,Defense,Tier 1,95,Tunisia
+161,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+161,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+161,V0169,1,Taylor Group,Finance,Tier 1,95,Russian Federation
+161,V0182,1,Alexander-Williams,Manufacturing,Tier 2/3,31,Spain
+162,V0033,1,Miranda-Moore,Manufacturing,Tier 2/3,67,Botswana
+162,V0121,1,"Vargas, Wilson and Bowman",Cloud,Tier 2/3,40,Guam
+163,V0034,1,Montgomery-Cooper,Cloud,Tier 2/3,73,Iraq
+163,V0053,1,Underwood-Baldwin,Cloud,Tier 2/3,72,Uruguay
+163,V0078,1,Lowery-Cummings,Logistics,Tier 2/3,47,Finland
+163,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+164,V0012,1,Escobar-Rocha,Healthcare,Tier 1,82,French Guiana
+164,V0023,1,Oconnor Group,Healthcare,Tier 1,91,Barbados
+164,V0028,1,Petersen Ltd,Cloud,Tier 2/3,68,Libyan Arab Jamahiriya
+164,V0052,1,Lee and Sons,Finance,Tier 2/3,35,Canada
+164,V0086,1,Mitchell-Gonzalez,Manufacturing,Tier 2/3,34,Kenya
+164,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+164,V0117,1,"Walker, Ross and Craig",Manufacturing,Tier 1,84,Vietnam
+164,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+164,V0196,1,Glenn-Johnson,Finance,Tier 2/3,63,Saint Pierre and Miquelon
+165,V0010,1,Gallagher LLC,Defense,Tier 2/3,42,Thailand
+165,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+165,V0076,1,Cruz LLC,Logistics,Tier 2/3,69,Guatemala
+165,V0081,1,"Garcia, Thomas and Moore",Logistics,Tier 2/3,76,Bahamas
+166,V0069,1,Franco-Johnson,Manufacturing,Tier 2/3,34,Gabon
+166,V0099,1,Phillips Ltd,Logistics,Tier 1,93,Cambodia
+166,V0191,1,Miller Group,Healthcare,Tier 2/3,49,Iceland
+167,V0053,1,Underwood-Baldwin,Cloud,Tier 2/3,72,Uruguay
+167,V0060,1,"Nunez, Chambers and Montes",Cloud,Tier 2/3,75,Indonesia
+167,V0099,1,Phillips Ltd,Logistics,Tier 1,93,Cambodia
+167,V0151,1,Phillips and Sons,Logistics,Tier 2/3,57,Trinidad and Tobago
+167,V0193,1,Wolfe-Nguyen,Healthcare,Tier 2/3,60,Zimbabwe
+168,V0003,1,"Alexander, Tucker and Colon",Cloud,Tier 1,88,Armenia
+168,V0011,1,Alvarez-Evans,Logistics,Tier 2/3,47,Bolivia
+168,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+168,V0093,1,Vasquez-Hernandez,Logistics,Tier 2/3,58,Liberia
+168,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+169,V0006,1,"Wright, Mendez and Castro",Cloud,Tier 1,85,Togo
+169,V0036,1,Gilmore PLC,Manufacturing,Tier 2/3,61,Somalia
+169,V0054,1,Martinez PLC,Healthcare,Tier 2/3,41,Portugal
+169,V0088,1,"Burton, Miller and Ramos",Healthcare,Tier 2/3,57,Belarus
+169,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+169,V0135,1,"Owens, Hoover and Strickland",Defense,Tier 1,84,American Samoa
+169,V0185,1,"Brooks, Ortiz and Howell",Healthcare,Tier 1,86,Niue
+170,V0002,1,Floyd PLC,Manufacturing,Tier 2/3,59,French Southern Territories
+170,V0062,1,Schroeder-Mcmahon,Finance,Tier 2/3,72,Isle of Man
+170,V0148,1,Johnson-Fox,Healthcare,Tier 2/3,79,Croatia
+171,V0040,1,Gallagher LLC,Healthcare,Tier 2/3,35,Cayman Islands
+171,V0070,1,Wilson-Parks,Defense,Tier 1,85,Liechtenstein
+171,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+171,V0114,1,"Pena, Hamilton and Baker",Healthcare,Tier 1,98,Taiwan
+171,V0134,1,Hill-Lindsey,Manufacturing,Tier 2/3,46,Timor-Leste
+171,V0188,1,"Medina, Smith and Hernandez",Defense,Tier 2/3,42,Monaco
+172,V0047,1,"Brown, Harrison and Chen",Healthcare,Tier 1,94,British Indian Ocean Territory (Chagos Archipelago)
+172,V0062,1,Schroeder-Mcmahon,Finance,Tier 2/3,72,Isle of Man
+172,V0140,1,Landry-Pace,Cloud,Tier 1,88,Faroe Islands
+172,V0143,1,Hood-Jackson,Finance,Tier 1,90,Pitcairn Islands
+172,V0158,1,Rodriguez-Tanner,Healthcare,Tier 2/3,72,United States of America
+172,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+173,V0046,1,"Porter, Morris and Craig",Finance,Tier 2/3,56,Czech Republic
+173,V0118,1,"Carroll, Thomas and Todd",Defense,Tier 2/3,76,Holy See (Vatican City State)
+173,V0170,1,Wilkerson-Rivera,Finance,Tier 2/3,41,Puerto Rico
+173,V0178,1,Brown-Jones,Cloud,Tier 1,85,Sri Lanka
+174,V0095,1,Pollard-Taylor,Defense,Tier 2/3,44,Bolivia
+175,V0071,1,"Davis, Marsh and Lee",Finance,Tier 2/3,79,Ethiopia
+175,V0133,1,Brown-Lewis,Cloud,Tier 2/3,37,Canada
+175,V0153,1,Gutierrez-Newton,Manufacturing,Tier 1,98,Syrian Arab Republic
+175,V0187,1,Black-Martin,Finance,Tier 2/3,73,Martinique
+176,V0024,1,"Leonard, Barber and Trujillo",Manufacturing,Tier 2/3,37,Spain
+176,V0057,1,Smith-Ortiz,Manufacturing,Tier 1,80,Cote d'Ivoire
+176,V0069,1,Franco-Johnson,Manufacturing,Tier 2/3,34,Gabon
+176,V0129,1,Henderson and Sons,Logistics,Tier 2/3,74,Marshall Islands
+176,V0130,1,Brown-Peterson,Defense,Tier 1,82,Colombia
+176,V0172,1,Price LLC,Defense,Tier 2/3,47,Barbados
+177,V0094,1,"Velez, Jackson and Martin",Logistics,Tier 1,99,Jamaica
+177,V0099,1,Phillips Ltd,Logistics,Tier 1,93,Cambodia
+177,V0111,1,West and Sons,Finance,Tier 2/3,66,Cambodia
+177,V0123,1,Gardner-Nguyen,Healthcare,Tier 2/3,72,Liechtenstein
+177,V0124,1,Jackson Ltd,Healthcare,Tier 1,85,Indonesia
+177,V0141,1,Harris Group,Healthcare,Tier 2/3,34,Thailand
+177,V0192,1,Garcia-Davis,Logistics,Tier 2/3,44,Thailand
+178,V0013,1,Peck-Myers,Logistics,Tier 2/3,47,Chad
+178,V0074,1,"Williams, Williamson and Smith",Healthcare,Tier 1,97,American Samoa
+178,V0103,1,"Thompson, Harris and Nichols",Logistics,Tier 1,84,Kuwait
+178,V0145,1,"Mason, Duran and Torres",Manufacturing,Tier 1,91,Puerto Rico
+178,V0154,1,Bates Group,Finance,Tier 2/3,65,Angola
+178,V0169,1,Taylor Group,Finance,Tier 1,95,Russian Federation
+179,V0001,1,Williams-Irwin,Finance,Tier 2/3,68,Sao Tome and Principe
+179,V0121,1,"Vargas, Wilson and Bowman",Cloud,Tier 2/3,40,Guam
+179,V0142,1,"Mcdonald, Wells and Lynch",Healthcare,Tier 1,84,Honduras
+179,V0159,1,"Collins, Rodriguez and Cole",Finance,Tier 2/3,36,Syrian Arab Republic

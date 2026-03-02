@@ -1,0 +1,22 @@
+vendors:
+  n_vendors: 200
+  tier1_ratio: 0.25
+  industries: ["Healthcare", "Finance", "Defense", "Cloud", "Manufacturing", "Logistics"]
+
+risk_categories:
+  - Data Breach
+  - Ransomware
+  - Vulnerability
+  - Compliance
+
+monitoring:
+  n_days: 180
+  base_event_prob: 0.02
+  tier1_multiplier: 2.0
+
+scoring:
+  weights:
+    Data Breach: 0.35
+    Ransomware: 0.30
+    Vulnerability: 0.20
+    Compliance: 0.15
